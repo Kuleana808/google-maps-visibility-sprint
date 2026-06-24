@@ -24,11 +24,14 @@ Included assets:
 - `hvac-google-maps-audit.html` — HVAC-specific offer page with the same live Stripe checkouts
 - `garage-door-google-maps-audit.html` — garage-door-specific offer page with the same live Stripe checkouts
 - `electrician-google-maps-audit.html` — electrician-specific offer page with the same live Stripe checkouts
+- `locksmith-google-maps-audit.html` — locksmith-specific offer page with the same live Stripe checkouts
 - `tree-service-google-maps-audit.html` — tree-service-specific offer page with the same live Stripe checkouts
 - `pest-control-google-maps-audit.html` — pest-control-specific offer page with the same live Stripe checkouts
 - `chiropractor-google-maps-audit.html` — chiropractor-specific offer page with the same live Stripe checkouts
 - `junk-removal-google-maps-audit.html` — junk-removal-specific offer page with the same live Stripe checkouts
 - `auto-detail-google-maps-audit.html` — auto-detailer-specific offer page with the same live Stripe checkouts
 - `pool-service-google-maps-audit.html` — pool-service-specific offer page with the same live Stripe checkouts
+- `landscaping-google-maps-audit.html` — landscaping-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
+
