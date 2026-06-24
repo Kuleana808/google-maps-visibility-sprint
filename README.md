@@ -29,5 +29,6 @@ Included assets:
 - `chiropractor-google-maps-audit.html` — chiropractor-specific offer page with the same live Stripe checkouts
 - `junk-removal-google-maps-audit.html` — junk-removal-specific offer page with the same live Stripe checkouts
 - `auto-detail-google-maps-audit.html` — auto-detailer-specific offer page with the same live Stripe checkouts
+- `pool-service-google-maps-audit.html` — pool-service-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
