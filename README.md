@@ -32,6 +32,8 @@ Included assets:
 - `auto-detail-google-maps-audit.html` — auto-detailer-specific offer page with the same live Stripe checkouts
 - `pool-service-google-maps-audit.html` — pool-service-specific offer page with the same live Stripe checkouts
 - `landscaping-google-maps-audit.html` — landscaping-specific offer page with the same live Stripe checkouts
+- `pressure-washing-google-maps-audit.html` — pressure-washing-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
+
 
