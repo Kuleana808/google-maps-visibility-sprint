@@ -9,6 +9,7 @@ Purpose: fastest public landing page for marketplace-adjacent distribution with 
 
 Included assets:
 - `index.html` — main offer page
+- `google-maps-roi-calculator.html` — free inbound calculator that estimates local map-pack call, job, and revenue lift
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
