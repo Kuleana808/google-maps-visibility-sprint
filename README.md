@@ -15,12 +15,13 @@ Included assets:
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
-- `vertical-quickstart.html` — niche-specific med spa, dentist, and home-service listing copy
+- `vertical-quickstart.html` — niche-specific med spa, dentist, electrician, and home-service listing copy
 - `med-spa-google-maps-audit.html` — med-spa-specific offer page with the same live Stripe checkouts
 - `dentist-google-maps-audit.html` — dentist-specific offer page with the same live Stripe checkouts
 - `plumber-google-maps-audit.html` — plumber-specific offer page with the same live Stripe checkouts
 - `roofing-google-maps-audit.html` — roofer-specific offer page with the same live Stripe checkouts
 - `hvac-google-maps-audit.html` — HVAC-specific offer page with the same live Stripe checkouts
 - `garage-door-google-maps-audit.html` — garage-door-specific offer page with the same live Stripe checkouts
+- `electrician-google-maps-audit.html` — electrician-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
