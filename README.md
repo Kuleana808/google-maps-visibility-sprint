@@ -20,5 +20,6 @@ Included assets:
 - `dentist-google-maps-audit.html` — dentist-specific offer page with the same live Stripe checkouts
 - `plumber-google-maps-audit.html` — plumber-specific offer page with the same live Stripe checkouts
 - `roofing-google-maps-audit.html` — roofer-specific offer page with the same live Stripe checkouts
+- `hvac-google-maps-audit.html` — HVAC-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
