@@ -11,3 +11,4 @@ Included assets:
 - `index.html` — main offer page
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
+- `vertical-quickstart.html` — niche-specific med spa, dentist, and home-service listing copy

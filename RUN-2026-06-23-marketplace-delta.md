@@ -1,20 +1,13 @@
-# Revenue strike delta — 2026-06-23
+# Run delta — 2026-06-23
 
-Created a public distribution kit for the live Google Maps Visibility Sprint so the same checkout-ready offer can be pasted into marketplace-like channels without rewriting the pitch.
+Created and linked a new public asset page: `vertical-quickstart.html`.
 
-New artifact:
-- Distribution kit page: `distribution-kit.html`
+What it adds:
+- niche-specific marketplace/listing copy for med spas
+- niche-specific marketplace/listing copy for dentists
+- niche-specific marketplace/listing copy for home-service operators
+- direct links back to the main public offer page and both live Stripe checkouts
 
-What it contains:
-- Facebook Marketplace / local-group listing copy
-- Craigslist services listing copy
-- Fiverr gig draft copy
-- Upwork / direct-DM message copy
-- All copy points to the existing live offer page plus the two live Stripe checkout links
-
-Updated page:
-- `index.html` now links directly to the distribution kit from the FAQ/footer so the public offer has an attached launch-ready copy asset.
-
-Live targets after publish:
-- Offer page: https://kuleana808.github.io/google-maps-visibility-sprint/
-- Distribution kit page: https://kuleana808.github.io/google-maps-visibility-sprint/distribution-kit.html
+Goal:
+- reduce friction between a generic public storefront and actual listing-surface posting
+- let Brent reuse tighter niche messaging in Facebook Marketplace, Craigslist-style classifieds, Fiverr/Upwork-style packaged service copy, and direct DMs without rewriting the offer
