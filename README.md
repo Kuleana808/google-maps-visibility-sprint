@@ -17,5 +17,6 @@ Included assets:
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `vertical-quickstart.html` — niche-specific med spa, dentist, and home-service listing copy
 - `med-spa-google-maps-audit.html` — med-spa-specific offer page with the same live Stripe checkouts
+- `dentist-google-maps-audit.html` — dentist-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
