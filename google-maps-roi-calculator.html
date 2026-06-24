@@ -122,7 +122,8 @@
       color: #31425f;
       margin-bottom: 6px;
     }
-    input[type="number"] {
+    input[type="number"],
+    input[type="text"] {
       width: 100%;
       border: 1px solid #d7e2ef;
       border-radius: 12px;
@@ -176,6 +177,37 @@
     }
     .scenario span { color: #62748e; font-size: 13px; }
     .scenario.base { background: linear-gradient(180deg, #eff6ff, #ffffff); }
+    .recommendation {
+      margin-top: 18px;
+      border-radius: 18px;
+      border: 1px solid #dbe6f3;
+      background: linear-gradient(135deg, #f8fbff, #eff6ff);
+      padding: 18px;
+    }
+    .recommendation .label {
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: .05em;
+      text-transform: uppercase;
+      color: #2563eb;
+      margin-bottom: 8px;
+    }
+    .recommendation strong {
+      display: block;
+      font-size: 22px;
+      line-height: 1.15;
+      letter-spacing: -0.03em;
+      margin-bottom: 6px;
+    }
+    .recommendation p {
+      margin: 0;
+      color: #4e617f;
+    }
+    .recommendation ul {
+      margin: 12px 0 0;
+      padding-left: 18px;
+      color: #455770;
+    }
     .cta-row {
       display: flex;
       flex-wrap: wrap;
@@ -251,6 +283,16 @@
         <div class="tool-card">
           <h3>Enter your numbers</h3>
           <div class="input-grid">
+            <div>
+              <label for="businessType">Business type</label>
+              <input id="businessType" type="text" value="Local service business" />
+              <div class="hint">Optional personalization for the copied summary and email CTA.</div>
+            </div>
+            <div>
+              <label for="marketName">City or market</label>
+              <input id="marketName" type="text" value="your city" />
+              <div class="hint">Example: Honolulu, Austin, or North Shore.</div>
+            </div>
             <div>
               <label for="extraCalls">Extra calls per month from better rankings</label>
               <input id="extraCalls" type="number" min="0" value="18" />
@@ -332,12 +374,24 @@
             </div>
           </div>
 
+          <div class="recommendation">
+            <div class="label">Suggested next move</div>
+            <strong id="recommendationHeadline">Start with the $99 audit.</strong>
+            <p id="recommendationBody">Use the diagnostic first when you need proof before paying for implementation.</p>
+            <ul>
+              <li id="recommendationPoint1">Good fit when the upside is still directional and you want clarity on where calls are leaking.</li>
+              <li id="recommendationPoint2">Escalate into the done-for-you package once the audit confirms the gap.</li>
+            </ul>
+          </div>
+
           <div class="cta-row">
-            <a class="cta primary" href="https://buy.stripe.com/14A3cwaYr7mD4l2bFSenS01">Start with the $99 Audit</a>
-            <a class="cta secondary" href="https://buy.stripe.com/7sY7sM1nR0Yf8Bi11eenS02">Skip to the $349 DFY Optimization</a>
+            <a class="cta primary" id="emailCta" href="mailto:leads@operator.fyi?subject=Google%20Maps%20ROI%20Snapshot&body=Send%20me%20the%20next%20best%20move%20based%20on%20my%20Google%20Maps%20ROI%20estimate.">Email my ROI snapshot</a>
+            <a class="cta secondary" id="copyCta" href="#">Copy results</a>
+            <a class="cta ghost" href="https://buy.stripe.com/14A3cwaYr7mD4l2bFSenS01">Buy the $99 Audit</a>
+            <a class="cta ghost" href="https://buy.stripe.com/7sY7sM1nR0Yf8Bi11eenS02">Buy the $349 DFY Optimization</a>
             <a class="cta ghost" href="index.html">Back to main offer page</a>
           </div>
-          <div class="micro">Use the audit when you need diagnosis first. Use the done-for-you offer when you already know weak local visibility is costing you calls.</div>
+          <div class="micro">The email CTA pre-fills assumptions, outputs, and the suggested next move so warm leads can ask for help without typing from scratch.</div>
         </div>
       </div>
 
@@ -364,6 +418,8 @@
 
   <script>
     const ids = {
+      businessType: document.getElementById('businessType'),
+      marketName: document.getElementById('marketName'),
       extraCalls: document.getElementById('extraCalls'),
       bookingRate: document.getElementById('bookingRate'),
       jobValue: document.getElementById('jobValue'),
@@ -379,7 +435,13 @@
       breakEvenJobs: document.getElementById('breakEvenJobs'),
       revenue90: document.getElementById('revenue90'),
       profit90: document.getElementById('profit90'),
-      roiRatio: document.getElementById('roiRatio')
+      roiRatio: document.getElementById('roiRatio'),
+      recommendationHeadline: document.getElementById('recommendationHeadline'),
+      recommendationBody: document.getElementById('recommendationBody'),
+      recommendationPoint1: document.getElementById('recommendationPoint1'),
+      recommendationPoint2: document.getElementById('recommendationPoint2'),
+      emailCta: document.getElementById('emailCta'),
+      copyCta: document.getElementById('copyCta')
     };
 
     function money(n) {
@@ -390,7 +452,42 @@
       return Number(n).toLocaleString(undefined, { minimumFractionDigits: 1, maximumFractionDigits: 1 });
     }
 
+    function integer(n) {
+      return Number(n).toLocaleString(undefined, { maximumFractionDigits: 0 });
+    }
+
+    function recommendationFor(metrics) {
+      const { profitPerMonth, roiRatio, breakEvenJobs, businessType, marketName, timeToImpact } = metrics;
+
+      if (profitPerMonth >= 2500 || roiRatio >= 8) {
+        return {
+          headline: 'The upside looks strong enough to justify the $349 done-for-you optimization.',
+          body: `For a ${businessType.toLowerCase()} in ${marketName}, the economics look strong enough to move past diagnosis and pay for implementation speed.`,
+          point1: `You only need about ${oneDecimal(breakEvenJobs)} extra booked jobs per month to justify the budget assumption.`,
+          point2: `If you want the fastest path, use the done-for-you package and treat the first ${timeToImpact}-month window as your decision horizon.`
+        };
+      }
+
+      if (profitPerMonth >= 1000 || roiRatio >= 4) {
+        return {
+          headline: 'Start with the $99 audit, then be ready to upgrade if the gaps are confirmed.',
+          body: `There appears to be real upside for a ${businessType.toLowerCase()} in ${marketName}, but the smartest move is still to validate the exact ranking and profile issues first.`,
+          point1: 'Use the audit when the opportunity looks real but you still need proof on keywords, competitors, and profile weaknesses.',
+          point2: 'If the audit confirms the leak, roll immediately into the done-for-you package instead of reopening the decision.'
+        };
+      }
+
+      return {
+        headline: 'Use the calculator as a screening tool and start with the $99 audit only if the assumptions are conservative.',
+        body: `The current assumptions suggest a narrower upside for a ${businessType.toLowerCase()} in ${marketName}, so keep the next step low-risk and diagnostic.`,
+        point1: 'Tighten the assumptions with real call volume, close-rate, and job-value numbers before paying for implementation.',
+        point2: 'If better data raises the upside, the done-for-you package becomes easier to justify on the next pass.'
+      };
+    }
+
     function calculate() {
+      const businessType = (ids.businessType.value || 'Local service business').trim() || 'Local service business';
+      const marketName = (ids.marketName.value || 'your city').trim() || 'your city';
       const extraCalls = Math.max(0, parseFloat(ids.extraCalls.value) || 0);
       const bookingRate = Math.max(0, Math.min(100, parseFloat(ids.bookingRate.value) || 0)) / 100;
       const jobValue = Math.max(0, parseFloat(ids.jobValue.value) || 0);
@@ -413,9 +510,60 @@
       output.revenue90.textContent = money(revenueWindow);
       output.profit90.textContent = money(profitWindow);
       output.roiRatio.textContent = roiRatio.toFixed(1) + 'x';
+
+      const recommendation = recommendationFor({
+        profitPerMonth,
+        roiRatio,
+        breakEvenJobs,
+        businessType,
+        marketName,
+        timeToImpact
+      });
+
+      output.recommendationHeadline.textContent = recommendation.headline;
+      output.recommendationBody.textContent = recommendation.body;
+      output.recommendationPoint1.textContent = recommendation.point1;
+      output.recommendationPoint2.textContent = recommendation.point2;
+
+      const summary = [
+        'Google Maps ROI Calculator',
+        `Business type: ${businessType}`,
+        `Market: ${marketName}`,
+        `Extra calls / month: ${integer(extraCalls)}`,
+        `Booked-job rate: ${integer(bookingRate * 100)}%`,
+        `Average revenue / booked job: ${money(jobValue)}`,
+        `Gross margin: ${integer(grossMargin * 100)}%`,
+        `Monthly growth budget: ${money(monthlySpend)}`,
+        `Decision window: ${integer(timeToImpact)} month(s)`,
+        `Extra booked jobs / month: ${oneDecimal(jobsPerMonth)}`,
+        `Extra revenue / month: ${money(revenuePerMonth)}`,
+        `Gross profit / month: ${money(profitPerMonth)}`,
+        `Breakeven extra jobs / month: ${oneDecimal(breakEvenJobs)}`,
+        `${integer(timeToImpact)}-month revenue lift: ${money(revenueWindow)}`,
+        `${integer(timeToImpact)}-month gross profit: ${money(profitWindow)}`,
+        `Revenue-to-budget ratio: ${roiRatio.toFixed(1)}x`,
+        `Suggested next move: ${recommendation.headline}`,
+        `Why: ${recommendation.body}`
+      ].join('\n');
+
+      const subject = encodeURIComponent(`Google Maps ROI Snapshot for ${businessType} in ${marketName}`);
+      const body = encodeURIComponent(`Please review this Google Maps ROI estimate and tell me the best next move.\n\n${summary}\n\nBusiness name:\nWebsite:\nPrimary Google Business Profile URL:\nBiggest ranking or review problem today:`);
+      output.emailCta.href = `mailto:leads@operator.fyi?subject=${subject}&body=${body}`;
+      output.copyCta.dataset.summary = summary;
     }
 
     Object.values(ids).forEach((el) => el.addEventListener('input', calculate));
+    output.copyCta.addEventListener('click', async (e) => {
+      e.preventDefault();
+      const text = e.currentTarget.dataset.summary || '';
+      try {
+        await navigator.clipboard.writeText(text);
+        e.currentTarget.textContent = 'Copied';
+        setTimeout(() => { e.currentTarget.textContent = 'Copy results'; }, 1500);
+      } catch {
+        alert(text);
+      }
+    });
     calculate();
   </script>
 </body>
