@@ -12,4 +12,5 @@ Included assets:
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
+- `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `vertical-quickstart.html` — niche-specific med spa, dentist, and home-service listing copy
