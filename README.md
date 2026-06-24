@@ -34,6 +34,7 @@ Included assets:
 - `landscaping-google-maps-audit.html` — landscaping-specific offer page with the same live Stripe checkouts
 - `pressure-washing-google-maps-audit.html` — pressure-washing-specific offer page with the same live Stripe checkouts
 - `house-cleaning-google-maps-audit.html` — house-cleaning-specific offer page with the same live Stripe checkouts
+- `fence-company-google-maps-audit.html` — fence-company-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
