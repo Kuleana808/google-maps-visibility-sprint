@@ -11,6 +11,7 @@ Included assets:
 - `index.html` — main offer page
 - `google-maps-roi-calculator.html` — free inbound calculator that estimates local map-pack call, job, and revenue lift
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
+- `facebook-craigslist-pack.html` — dedicated Facebook Marketplace and Craigslist listing pack with local hooks and reply scripts
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
