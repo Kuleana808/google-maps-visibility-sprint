@@ -6,3 +6,8 @@ Static one-page offer site for two live checkout-ready local search products:
 - $349 Done-For-You Google Business Profile Optimization
 
 Purpose: fastest public landing page for marketplace-adjacent distribution with live Stripe checkout.
+
+Included assets:
+- `index.html` — main offer page
+- `distribution-kit.html` — ready-to-paste listing/distribution copy
+- `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
