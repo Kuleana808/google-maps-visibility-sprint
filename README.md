@@ -26,5 +26,6 @@ Included assets:
 - `tree-service-google-maps-audit.html` — tree-service-specific offer page with the same live Stripe checkouts
 - `pest-control-google-maps-audit.html` — pest-control-specific offer page with the same live Stripe checkouts
 - `chiropractor-google-maps-audit.html` — chiropractor-specific offer page with the same live Stripe checkouts
+- `junk-removal-google-maps-audit.html` — junk-removal-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
