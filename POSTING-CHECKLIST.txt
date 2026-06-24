@@ -1,0 +1,58 @@
+Google Maps Visibility Sprint — 15-Minute Posting Checklist
+
+Goal:
+Launch the same fixed-price local SEO offer across marketplace-like surfaces without rewriting copy or creating a custom quote flow.
+
+Fastest order:
+1) Use the $99 audit first on colder surfaces.
+2) Keep the $349 done-for-you package as the upsell.
+3) Use the public offer page as the canonical proof layer.
+4) Reuse the same Stripe links everywhere.
+
+Steps:
+1. Pick one surface:
+   - Facebook Marketplace / local group
+   - Craigslist services
+   - Fiverr gig
+   - Upwork Project Catalog
+   - Gumroad / Payhip style shelf
+
+2. Pick the matching asset:
+   - distribution-kit.html for Facebook / Craigslist / DMs
+   - fiverr-upwork-pack.html for Fiverr / Upwork
+   - digital-product-pack.html for Gumroad / Payhip / Etsy-style copy
+   - vertical-quickstart.html for niche-specific variants
+
+3. Lead with this promise:
+   - fixed-price
+   - same-week delivery
+   - no retainer
+   - no discovery call required
+
+4. Use these live links:
+   - Offer page: https://kuleana808.github.io/google-maps-visibility-sprint/
+   - $99 audit: https://buy.stripe.com/14A3cwaYr7mD4l2bFSenS01
+   - $349 done-for-you: https://buy.stripe.com/7sY7sM1nR0Yf8Bi11eenS02
+
+5. Surface-specific rule:
+   - Low-trust or cold surface -> lead with $99 audit
+   - Higher-intent buyer already asking for help -> mention $349 package
+
+6. Keep the headline tight:
+   - Google Maps Visibility Audit for Local Businesses - $99
+   - Need More Google Maps Calls? Fixed-Price Audit + Optimization
+   - I will audit and optimize your Google Business Profile for more local calls
+
+7. Final check before posting:
+   - live checkout link included
+   - fixed-scope language included
+   - target niche named when possible
+   - no monthly retainer language
+   - one clear CTA only
+
+8. If a marketplace blocks setup or automation:
+   - note the block in one sentence
+   - reuse the same copy on another listing surface immediately
+
+Success condition:
+The offer is visible on at least one public listing surface and still routes buyers into the same live checkout flow.

@@ -14,3 +14,5 @@ Included assets:
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `vertical-quickstart.html` — niche-specific med spa, dentist, and home-service listing copy
+- `launch-kit.html` — download page for the portable marketplace ZIP bundle
+- `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
