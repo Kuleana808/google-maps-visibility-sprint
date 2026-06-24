@@ -10,6 +10,7 @@ Purpose: fastest public landing page for marketplace-adjacent distribution with 
 Included assets:
 - `index.html` — main offer page
 - `google-maps-roi-calculator.html` — free inbound calculator that estimates local map-pack call, job, and revenue lift
+- `google-review-request-templates.html` — public template library that captures review-intent traffic with SMS + email scripts for local operators
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
 - `facebook-craigslist-pack.html` — dedicated Facebook Marketplace and Craigslist listing pack with local hooks and reply scripts
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
