@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Google Maps Visibility Sprint Digital Bundle | Gumroad / Payhip / Etsy-Style Offer Page</title>
+  <meta name="description" content="Public digital-product-style landing page for the Google Maps Visibility Sprint. Use it as the proof and checkout layer for Gumroad, Payhip, Etsy-style, and downloadable-bundle distribution." />
+  <link rel="canonical" href="https://kuleana808.github.io/google-maps-visibility-sprint/google-maps-visibility-digital-bundle.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:title" content="Google Maps Visibility Sprint Digital Bundle" />
+  <meta property="og:description" content="A digital-product-style offer page for the $99 Google Maps Visibility Audit and $349 done-for-you optimization bundle." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://kuleana808.github.io/google-maps-visibility-sprint/google-maps-visibility-digital-bundle.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <style>
+    :root {
+      --bg: #09111f;
+      --panel: #102238;
+      --panel-soft: #f5fbff;
+      --text: #eef7ff;
+      --muted: #c4d8e9;
+      --dark: #12273f;
+      --line: #284663;
+      --brand: #7dd3fc;
+      --brand2: #0ea5e9;
+      --ok: #10b981;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+      color: var(--text);
+      background: linear-gradient(180deg, #08111d 0%, #0f2034 38%, #f3f9ff 38%, #f3f9ff 100%);
+      line-height: 1.6;
+    }
+    .wrap { max-width: 1140px; margin: 0 auto; padding: 0 20px; }
+    .hero { padding: 72px 0 40px; }
+    .eyebrow {
+      display: inline-block;
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: rgba(125,211,252,.14);
+      color: var(--brand);
+      font-size: 13px;
+      font-weight: 800;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+    }
+    h1 {
+      font-size: 52px;
+      line-height: 1.03;
+      letter-spacing: -0.04em;
+      margin: 18px 0 16px;
+      max-width: 900px;
+    }
+    .sub {
+      max-width: 840px;
+      color: var(--muted);
+      font-size: 20px;
+      margin-bottom: 24px;
+    }
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1.08fr .92fr;
+      gap: 24px;
+      align-items: start;
+    }
+    .panel, .mini, .card, .faq {
+      border: 1px solid var(--line);
+      border-radius: 22px;
+    }
+    .panel {
+      background: rgba(16,34,56,.84);
+      padding: 24px;
+      box-shadow: 0 20px 80px rgba(0,0,0,.18);
+    }
+    .panel h3 { margin: 0 0 10px; font-size: 20px; }
+    .panel p, .panel li { color: var(--muted); }
+    .panel ul { margin: 0; padding-left: 18px; }
+    .stat-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-top: 16px;
+    }
+    .mini {
+      background: rgba(125,211,252,.10);
+      padding: 14px;
+      text-align: center;
+    }
+    .mini b { display: block; font-size: 24px; color: #fff; margin-bottom: 4px; }
+    .cta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      margin-top: 20px;
+    }
+    .cta {
+      display: inline-block;
+      text-decoration: none;
+      font-weight: 800;
+      border-radius: 14px;
+      padding: 15px 18px;
+      text-align: center;
+    }
+    .cta.primary { background: linear-gradient(135deg, var(--brand2), #0f766e); color: #fff; }
+    .cta.secondary { background: rgba(255,255,255,.08); color: #fff; border: 1px solid rgba(255,255,255,.14); }
+    .section-light { color: var(--dark); padding: 34px 0 72px; }
+    .section-light h2 { font-size: 34px; margin: 0 0 10px; letter-spacing: -0.02em; }
+    .lead { color: #567089; max-width: 880px; margin: 0 0 24px; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+    .card, .faq {
+      background: #fff;
+      color: var(--dark);
+      border-color: #d8e8f3;
+      box-shadow: 0 12px 40px rgba(18,39,63,.08);
+    }
+    .card { padding: 24px; }
+    .tag {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      border-radius: 999px;
+      padding: 6px 10px;
+      background: #d9f3ff;
+      color: #0369a1;
+      margin-bottom: 12px;
+    }
+    .card h3 { margin: 0 0 10px; font-size: 24px; }
+    .card p { margin: 0 0 14px; color: #53657f; }
+    .card ul { margin: 0 0 18px; padding-left: 18px; color: #455a73; }
+    .price { font-size: 40px; font-weight: 900; letter-spacing: -0.03em; margin: 4px 0 10px; }
+    .price small { font-size: 16px; color: #59718a; font-weight: 600; }
+    .faq-wrap { display: grid; gap: 14px; margin-top: 32px; max-width: 920px; }
+    .faq { padding: 18px 20px; }
+    .faq h3 { margin: 0 0 8px; font-size: 18px; }
+    .footer {
+      color: #6d8599;
+      text-align: center;
+      padding: 28px 20px 54px;
+      font-size: 14px;
+    }
+    @media (max-width: 980px) {
+      .hero-grid, .grid, .stat-grid { grid-template-columns: 1fr; }
+      h1 { font-size: 40px; }
+      .sub { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">Public product page • digital marketplace angle</span>
+        <h1>A digital-product-style offer page for Gumroad, Payhip, Etsy-style shelves, and bundle-first distribution.</h1>
+        <p class="sub">Use this page when a buyer wants the offer framed like a fixed-scope product instead of an agency service. It keeps the same live Stripe rails, the same two-step pricing ladder, and the same fast path from “I need more Google Maps calls” to checkout.</p>
+        <div class="cta-row">
+          <a class="cta primary" href="https://buy.stripe.com/14A3cwaYr7mD4l2bFSenS01">Buy the $99 audit</a>
+          <a class="cta secondary" href="https://buy.stripe.com/7sY7sM1nR0Yf8Bi11eenS02">Buy the $349 DFY bundle</a>
+          <a class="cta secondary" href="digital-product-pack.html">Digital product pack</a>
+          <a class="cta secondary" href="launch-kit.html">Launch kit</a>
+          <a class="cta secondary" href="index.html">Main offer page</a>
+        </div>
+      </div>
+      <div class="panel">
+        <h3>Why this page exists</h3>
+        <p>Some distribution surfaces want a product-style proof layer, not a wall of listing copy. This page turns the Google Maps Visibility Sprint into a cleaner bundle-style shelf asset for digital marketplaces, creator tools, community roundups, and downloadable-offer directories.</p>
+        <div class="stat-grid">
+          <div class="mini"><b>$99</b>digital-style front-end</div>
+          <div class="mini"><b>$349</b>implementation bundle</div>
+          <div class="mini"><b>Live</b>Stripe checkout</div>
+        </div>
+        <ul>
+          <li>Frames the audit like a fixed-outcome product with a same-week PDF deliverable.</li>
+          <li>Gives Gumroad, Payhip, and Etsy-style surfaces one cleaner public URL to reference.</li>
+          <li>Preserves the same simple fulfillment path instead of creating a second payment stack.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-light">
+    <div class="wrap">
+      <h2>Choose the bundle that matches buyer trust</h2>
+      <p class="lead">Lead with the lower-friction audit on colder marketplace shelves. Use the implementation bundle when the buyer already understands the problem and wants the fixes, not just the diagnosis.</p>
+      <div class="grid">
+        <article class="card">
+          <div class="tag">Digital front-end offer</div>
+          <h3>Google Maps Visibility Audit</h3>
+          <div class="price">$99 <small>one-time</small></div>
+          <p>This is the cleanest “buy now” product on digital shelves: a custom audit delivered like a fixed-scope downloadable business asset.</p>
+          <ul>
+            <li>Google Business Profile health review</li>
+            <li>Top local keyword visibility check</li>
+            <li>Top-3 competitor gap snapshot</li>
+            <li>Prioritized 5-step action plan</li>
+            <li>PDF delivery within 3 business days</li>
+          </ul>
+          <a class="cta primary" href="https://buy.stripe.com/14A3cwaYr7mD4l2bFSenS01">Buy the $99 audit</a>
+        </article>
+
+        <article class="card">
+          <div class="tag">Expansion bundle</div>
+          <h3>Done-For-You GBP Optimization Bundle</h3>
+          <div class="price">$349 <small>one-time</small></div>
+          <p>Use this as the natural step-up for buyers who want the audit plus implementation help, offer cleanup, and stronger conversion cues.</p>
+          <ul>
+            <li>Audit included</li>
+            <li>Business description rewrite</li>
+            <li>Category + service cleanup</li>
+            <li>GBP post and offer guidance</li>
+            <li>Review-request + conversion-path fixes</li>
+            <li>Delivery within 7 business days</li>
+          </ul>
+          <a class="cta primary" href="https://buy.stripe.com/7sY7sM1nR0Yf8Bi11eenS02">Buy the $349 bundle</a>
+        </article>
+
+        <article class="card">
+          <div class="tag">Best-fit channels</div>
+          <p>Use this public page as the proof layer when the offer is being shared through:</p>
+          <ul>
+            <li>Gumroad or Payhip-style product pages</li>
+            <li>Etsy-style digital-service bundles</li>
+            <li>Creator storefronts and link-in-bio stacks</li>
+            <li>Community resource roundups and partner pages</li>
+            <li>Direct outreach where a product-style page converts better than a service page</li>
+          </ul>
+          <a class="cta primary" href="marketplace-assets.html">Open marketplace asset pack</a>
+        </article>
+
+        <article class="card">
+          <div class="tag">What buyers send after checkout</div>
+          <p>Keep intake lightweight so the sale feels as easy as a digital purchase, not a consulting engagement.</p>
+          <ul>
+            <li>Business name</li>
+            <li>Website URL</li>
+            <li>City or service area</li>
+            <li>Google Business Profile link</li>
+            <li>Top services or highest-value jobs</li>
+          </ul>
+          <a class="cta primary" href="digital-product-pack.html">Open listing-copy pack</a>
+        </article>
+      </div>
+
+      <div class="faq-wrap">
+        <div class="faq">
+          <h3>Is this actually a digital product?</h3>
+          <p>It is a fixed-scope service packaged like a digital product. The buyer gets a custom audit and action plan, but the buying experience stays fast, simple, and self-serve.</p>
+        </div>
+        <div class="faq">
+          <h3>Why not use native marketplace checkout?</h3>
+          <p>The fastest path is to reuse the live Stripe links that already work. This keeps the offer launch-ready even when a target marketplace blocks automation or adds friction.</p>
+        </div>
+        <div class="faq">
+          <h3>What should be linked alongside this page?</h3>
+          <p>Pair it with the <a href="digital-product-pack.html">digital product pack</a>, <a href="marketplace-assets.html">marketplace asset pack</a>, and <a href="launch-kit.html">launch kit ZIP</a> so the buyer or operator has both the public proof page and the reusable listing copy.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="footer">Google Maps Visibility Sprint • Digital bundle page • Updated 2026-06-26 for marketplace-style public distribution</div>
+</body>
+</html>

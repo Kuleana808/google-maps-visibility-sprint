@@ -34,6 +34,7 @@ Included assets:
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
+- `google-maps-visibility-digital-bundle.html` — public product-style offer page for Gumroad/Payhip/Etsy-style shelves and downloadable-bundle distribution
 - `vertical-quickstart.html` — niche-specific med spa, chiropractor, dentist, pest-control, electrician, and home-service listing copy
 - `med-spa-google-maps-audit.html` — med-spa-specific offer page with the same live Stripe checkouts
 - `dentist-google-maps-audit.html` — dentist-specific offer page with the same live Stripe checkouts
@@ -85,3 +86,4 @@ Included assets:
 - kitchen-remodeler-google-maps-audit.html — tighter page for kitchen remodel, cabinet replacement, countertop upgrades, and kitchen-renovation estimate intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
+- `RUN-2026-06-26-digital-bundle-page.md` — run note for adding a public product-style bundle page for Gumroad/Payhip/Etsy-style distribution
