@@ -18,6 +18,7 @@ Included assets:
 - `google-business-profile-category-templates.html` — public template library that captures Google Business Profile primary-category and secondary-category intent with niche-specific category stacks for local operators
 - `google-business-profile-qa-templates.html` — public template library that captures Google Business Profile questions-and-answers intent with niche-specific FAQ starters for local operators
 - `google-business-profile-attributes-templates.html` — public template library that captures Google Business Profile attributes, trust-signal, appointment-qualifier, and accessibility intent with niche-specific starter stacks for local operators
+- `google-business-profile-photo-prompts.html` — public prompt library that captures Google Business Profile photo-idea, before-and-after image, and service-proof upload intent with niche-specific shot lists for local operators
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
 - `google-maps-audit-directory.html` — public archive / directory page that links niche Google Maps audit pages from one canonical URL
 - `facebook-craigslist-pack.html` — dedicated Facebook Marketplace and Craigslist listing pack with local hooks and reply scripts
