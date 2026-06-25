@@ -56,6 +56,7 @@ Included assets:
 - `siding-contractor-google-maps-audit.html` — siding-contractor-specific offer page with the same live Stripe checkouts
 - `appliance-repair-google-maps-audit.html` — appliance-repair-specific offer page with the same live Stripe checkouts
 - `carpet-cleaning-google-maps-audit.html` — carpet-cleaning-specific offer page with the same live Stripe checkouts
+- `moving-company-google-maps-audit.html` — moving-company-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
