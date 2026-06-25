@@ -52,9 +52,11 @@ Included assets:
 - `concrete-contractor-google-maps-audit.html` — concrete-contractor-specific offer page with the same live Stripe checkouts
 - `siding-contractor-google-maps-audit.html` — siding-contractor-specific offer page with the same live Stripe checkouts
 - `appliance-repair-google-maps-audit.html` — appliance-repair-specific offer page with the same live Stripe checkouts
+- `carpet-cleaning-google-maps-audit.html` — carpet-cleaning-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
 
 
 - cosmetic-dentistry-google-maps-audit.html — tighter page for veneer / Invisalign / implant consult intent
+- carpet-cleaning-google-maps-audit.html — tighter page for carpet cleaning, upholstery, rug, tile-and-grout, and pet-odor local-intent buyers
