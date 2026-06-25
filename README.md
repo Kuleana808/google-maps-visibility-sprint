@@ -70,6 +70,7 @@ Included assets:
 - `window-cleaning-google-maps-audit.html` — window-cleaning-specific offer page with the same live Stripe checkouts
 - `orthodontist-google-maps-audit.html` — orthodontist-specific offer page with the same live Stripe checkouts
 - `bathroom-remodeler-google-maps-audit.html` — bathroom-remodeler-specific offer page with the same live Stripe checkouts
+- `kitchen-remodeler-google-maps-audit.html` — kitchen-remodeler-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
@@ -81,3 +82,4 @@ Included assets:
 - window-cleaning-google-maps-audit.html — tighter page for residential window washing, storefront glass cleaning, hard-water stain removal, gutter brightening, and recurring route local-intent buyers
 - orthodontist-google-maps-audit.html — tighter page for braces, Invisalign, teen treatment, retainers, and adult-orthodontics consult intent
 - bathroom-remodeler-google-maps-audit.html — tighter page for bathroom remodel, shower conversion, walk-in shower, and bathroom-renovation estimate intent
+- kitchen-remodeler-google-maps-audit.html — tighter page for kitchen remodel, cabinet replacement, countertop upgrades, and kitchen-renovation estimate intent
