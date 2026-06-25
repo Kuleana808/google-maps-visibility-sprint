@@ -14,6 +14,7 @@ Included assets:
 - `google-review-response-templates.html` — public template library that captures review-response intent with positive-review replies, 3-star recovery responses, and complaint-handling scripts for local operators
 - `google-business-profile-post-prompts.html` — public template library that captures Google Business Profile posting-intent traffic with weekly post ideas and niche-specific prompts for local operators
 - `google-business-profile-description-templates.html` — public template library that captures Google Business Profile business-description and service-area-copy intent with niche-specific description starters for local operators
+- `google-business-profile-service-area-templates.html` — public template library that captures Google Business Profile service-area, cities-served, travel-radius, and local-coverage intent with niche-specific wording starters for local operators
 - `google-business-profile-services-templates.html` — public template library that captures Google Business Profile services-section and service-description intent with niche-specific service-list starters for local operators
 - `google-business-profile-category-templates.html` — public template library that captures Google Business Profile primary-category and secondary-category intent with niche-specific category stacks for local operators
 - `google-business-profile-qa-templates.html` — public template library that captures Google Business Profile questions-and-answers intent with niche-specific FAQ starters for local operators
