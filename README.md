@@ -62,6 +62,7 @@ Included assets:
 - `appliance-repair-google-maps-audit.html` — appliance-repair-specific offer page with the same live Stripe checkouts
 - `carpet-cleaning-google-maps-audit.html` — carpet-cleaning-specific offer page with the same live Stripe checkouts
 - `moving-company-google-maps-audit.html` — moving-company-specific offer page with the same live Stripe checkouts
+- `auto-repair-google-maps-audit.html` — auto-repair-specific offer page with the same live Stripe checkouts
 - `towing-company-google-maps-audit.html` — towing-company-specific offer page with the same live Stripe checkouts
 - `gutter-company-google-maps-audit.html` — gutter-company-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
