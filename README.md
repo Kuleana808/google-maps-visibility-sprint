@@ -13,6 +13,7 @@ Included assets:
 - `google-review-request-templates.html` — public template library that captures review-intent traffic with SMS + email scripts for local operators
 - `google-review-response-templates.html` — public template library that captures review-response intent with positive-review replies, 3-star recovery responses, and complaint-handling scripts for local operators
 - `google-business-profile-post-prompts.html` — public template library that captures Google Business Profile posting-intent traffic with weekly post ideas and niche-specific prompts for local operators
+- `google-business-profile-description-templates.html` — public template library that captures Google Business Profile business-description and service-area-copy intent with niche-specific description starters for local operators
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
 - `google-maps-audit-directory.html` — public archive / directory page that links niche Google Maps audit pages from one canonical URL
 - `facebook-craigslist-pack.html` — dedicated Facebook Marketplace and Craigslist listing pack with local hooks and reply scripts
