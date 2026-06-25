@@ -34,7 +34,7 @@ Included assets:
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
-- `vertical-quickstart.html` — niche-specific med spa, dentist, electrician, and home-service listing copy
+- `vertical-quickstart.html` — niche-specific med spa, chiropractor, dentist, pest-control, electrician, and home-service listing copy
 - `med-spa-google-maps-audit.html` — med-spa-specific offer page with the same live Stripe checkouts
 - `dentist-google-maps-audit.html` — dentist-specific offer page with the same live Stripe checkouts
 - `pediatric-dentist-google-maps-audit.html` — pediatric-dentistry-specific offer page with the same live Stripe checkouts
@@ -83,3 +83,5 @@ Included assets:
 - orthodontist-google-maps-audit.html — tighter page for braces, Invisalign, teen treatment, retainers, and adult-orthodontics consult intent
 - bathroom-remodeler-google-maps-audit.html — tighter page for bathroom remodel, shower conversion, walk-in shower, and bathroom-renovation estimate intent
 - kitchen-remodeler-google-maps-audit.html — tighter page for kitchen remodel, cabinet replacement, countertop upgrades, and kitchen-renovation estimate intent
+
+- `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
