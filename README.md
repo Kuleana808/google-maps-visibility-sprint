@@ -25,6 +25,7 @@ Included assets:
 - `google-business-profile-hours-templates.html` — public template library that captures Google Business Profile regular-hours, holiday-hours, after-hours, emergency-availability, and appointment-only wording intent for local operators
 - `google-business-profile-products-templates.html` — public template library that captures Google Business Profile product-card, service-package, featured-offer, and promo-copy intent for local operators
 - `google-business-profile-offer-templates.html` — public template library that captures Google Business Profile intro-offer, inspection-special, maintenance-plan, and limited-time-promo intent for local operators
+- `google-business-profile-optimization-checklist.html` — public checklist page that captures Google Business Profile optimization-checklist and profile-audit intent for local operators
 - `google-business-profile-template-library.html` — public hub that aggregates the GBP helper-page cluster into one shareable inbound resource for directories, communities, partners, and mixed-intent buyers
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
 - `google-maps-audit-directory.html` — public archive / directory page that links niche Google Maps audit pages from one canonical URL
