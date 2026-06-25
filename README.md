@@ -67,6 +67,7 @@ Included assets:
 - `auto-repair-google-maps-audit.html` — auto-repair-specific offer page with the same live Stripe checkouts
 - `towing-company-google-maps-audit.html` — towing-company-specific offer page with the same live Stripe checkouts
 - `gutter-company-google-maps-audit.html` — gutter-company-specific offer page with the same live Stripe checkouts
+- `window-cleaning-google-maps-audit.html` — window-cleaning-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
@@ -75,3 +76,4 @@ Included assets:
 - pediatric-dentist-google-maps-audit.html — tighter page for kids dentist, parent-intent, emergency pediatric visit, and sedation consult searches
 - cosmetic-dentistry-google-maps-audit.html — tighter page for veneer / Invisalign / implant consult intent
 - carpet-cleaning-google-maps-audit.html — tighter page for carpet cleaning, upholstery, rug, tile-and-grout, and pet-odor local-intent buyers
+- window-cleaning-google-maps-audit.html — tighter page for residential window washing, storefront glass cleaning, hard-water stain removal, gutter brightening, and recurring route local-intent buyers
