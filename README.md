@@ -37,6 +37,7 @@ Included assets:
 - `vertical-quickstart.html` — niche-specific med spa, dentist, electrician, and home-service listing copy
 - `med-spa-google-maps-audit.html` — med-spa-specific offer page with the same live Stripe checkouts
 - `dentist-google-maps-audit.html` — dentist-specific offer page with the same live Stripe checkouts
+- `pediatric-dentist-google-maps-audit.html` — pediatric-dentistry-specific offer page with the same live Stripe checkouts
 - `cosmetic-dentistry-google-maps-audit.html` — cosmetic-dentistry-specific offer page with the same live Stripe checkouts
 - `plumber-google-maps-audit.html` — plumber-specific offer page with the same live Stripe checkouts
 - `roofing-google-maps-audit.html` — roofer-specific offer page with the same live Stripe checkouts
@@ -71,5 +72,6 @@ Included assets:
 
 
 
+- pediatric-dentist-google-maps-audit.html — tighter page for kids dentist, parent-intent, emergency pediatric visit, and sedation consult searches
 - cosmetic-dentistry-google-maps-audit.html — tighter page for veneer / Invisalign / implant consult intent
 - carpet-cleaning-google-maps-audit.html — tighter page for carpet cleaning, upholstery, rug, tile-and-grout, and pet-odor local-intent buyers
