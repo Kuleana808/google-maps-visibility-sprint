@@ -12,6 +12,7 @@ Included assets:
 - `google-maps-roi-calculator.html` — free inbound calculator that estimates local map-pack call, job, and revenue lift
 - `google-review-request-templates.html` — public template library that captures review-intent traffic with SMS + email scripts for local operators
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
+- `google-maps-audit-directory.html` — public archive / directory page that links niche Google Maps audit pages from one canonical URL
 - `facebook-craigslist-pack.html` — dedicated Facebook Marketplace and Craigslist listing pack with local hooks and reply scripts
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
