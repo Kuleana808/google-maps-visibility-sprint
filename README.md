@@ -20,6 +20,7 @@ Included assets:
 - `vertical-quickstart.html` — niche-specific med spa, dentist, electrician, and home-service listing copy
 - `med-spa-google-maps-audit.html` — med-spa-specific offer page with the same live Stripe checkouts
 - `dentist-google-maps-audit.html` — dentist-specific offer page with the same live Stripe checkouts
+- `cosmetic-dentistry-google-maps-audit.html` — cosmetic-dentistry-specific offer page with the same live Stripe checkouts
 - `plumber-google-maps-audit.html` — plumber-specific offer page with the same live Stripe checkouts
 - `roofing-google-maps-audit.html` — roofer-specific offer page with the same live Stripe checkouts
 - `hvac-google-maps-audit.html` — HVAC-specific offer page with the same live Stripe checkouts
@@ -47,3 +48,5 @@ Included assets:
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
 
+
+- cosmetic-dentistry-google-maps-audit.html — tighter page for veneer / Invisalign / implant consult intent
