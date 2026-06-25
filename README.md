@@ -21,6 +21,7 @@ Included assets:
 - `google-business-profile-photo-prompts.html` — public prompt library that captures Google Business Profile photo-idea, before-and-after image, and service-proof upload intent with niche-specific shot lists for local operators
 - `google-business-profile-booking-cta-templates.html` — public template library that captures Google Business Profile booking-link, request-quote, consultation, and appointment-CTA intent with niche-specific next-step wording for local operators
 - `google-business-profile-hours-templates.html` — public template library that captures Google Business Profile regular-hours, holiday-hours, after-hours, emergency-availability, and appointment-only wording intent for local operators
+- `google-business-profile-products-templates.html` — public template library that captures Google Business Profile product-card, service-package, featured-offer, and promo-copy intent for local operators
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
 - `google-maps-audit-directory.html` — public archive / directory page that links niche Google Maps audit pages from one canonical URL
 - `facebook-craigslist-pack.html` — dedicated Facebook Marketplace and Craigslist listing pack with local hooks and reply scripts
