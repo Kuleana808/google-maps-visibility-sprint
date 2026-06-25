@@ -38,6 +38,8 @@ Included assets:
 - `water-damage-restoration-google-maps-audit.html` — water-damage-restoration-specific offer page with the same live Stripe checkouts
 - `painting-contractor-google-maps-audit.html` — painting-contractor-specific offer page with the same live Stripe checkouts
 - `solar-installer-google-maps-audit.html` — solar-installer-specific offer page with the same live Stripe checkouts
+- `epoxy-flooring-google-maps-audit.html` — epoxy-flooring-specific offer page with the same live Stripe checkouts
+- `concrete-contractor-google-maps-audit.html` — concrete-contractor-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
