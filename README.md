@@ -27,6 +27,7 @@ Included assets:
 - `google-business-profile-products-templates.html` — public template library that captures Google Business Profile product-card, service-package, featured-offer, and promo-copy intent for local operators
 - `google-business-profile-offer-templates.html` — public template library that captures Google Business Profile intro-offer, inspection-special, maintenance-plan, and limited-time-promo intent for local operators
 - `google-business-profile-suspension-appeal-templates.html` — public template library that captures Google Business Profile suspension appeal, reinstatement request, duplicate cleanup, and profile-proof intent for local operators
+- `google-business-profile-verification-templates.html` — public template library that captures Google Business Profile verification, postcard wording, video-proof, address-clarification, and stuck-profile follow-up intent for local operators
 - `google-business-profile-optimization-checklist.html` — public checklist page that captures Google Business Profile optimization-checklist and profile-audit intent for local operators
 - `google-business-profile-template-library.html` — public hub that aggregates the GBP helper-page cluster into one shareable inbound resource for directories, communities, partners, and mixed-intent buyers
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
@@ -94,3 +95,4 @@ Included assets:
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
 - `RUN-2026-06-26-digital-bundle-page.md` — run note for adding a public product-style bundle page for Gumroad/Payhip/Etsy-style distribution
 - `RUN-2026-06-26-foundation-repair-page.md` — run note for adding a foundation-repair niche page to the marketplace offer cluster
+- `RUN-2026-06-26-gbp-verification-templates.md` — run note for adding a GBP verification helper page to the marketplace offer cluster
