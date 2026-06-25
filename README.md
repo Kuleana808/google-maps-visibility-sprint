@@ -74,6 +74,7 @@ Included assets:
 - `bathroom-remodeler-google-maps-audit.html` — bathroom-remodeler-specific offer page with the same live Stripe checkouts
 - `kitchen-remodeler-google-maps-audit.html` — kitchen-remodeler-specific offer page with the same live Stripe checkouts
 - `window-replacement-google-maps-audit.html` — window-replacement-specific offer page with the same live Stripe checkouts
+- `foundation-repair-google-maps-audit.html` — foundation-repair-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
@@ -87,7 +88,9 @@ Included assets:
 - bathroom-remodeler-google-maps-audit.html — tighter page for bathroom remodel, shower conversion, walk-in shower, and bathroom-renovation estimate intent
 - kitchen-remodeler-google-maps-audit.html — tighter page for kitchen remodel, cabinet replacement, countertop upgrades, and kitchen-renovation estimate intent
 - window-replacement-google-maps-audit.html — tighter page for replacement windows, impact-window upgrades, patio doors, and energy-efficiency estimate intent
+- foundation-repair-google-maps-audit.html — tighter page for foundation repair, slab-crack diagnosis, house leveling, crawl-space support, and waterproofing estimate intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
 - `RUN-2026-06-26-digital-bundle-page.md` — run note for adding a public product-style bundle page for Gumroad/Payhip/Etsy-style distribution
+- `RUN-2026-06-26-foundation-repair-page.md` — run note for adding a foundation-repair niche page to the marketplace offer cluster
