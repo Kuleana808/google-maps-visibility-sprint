@@ -52,6 +52,7 @@ Included assets:
 - `plumber-google-maps-audit.html` — plumber-specific offer page with the same live Stripe checkouts
 - `septic-service-google-maps-audit.html` — septic-service-specific offer page with the same live Stripe checkouts
 - `roofing-google-maps-audit.html` — roofer-specific offer page with the same live Stripe checkouts
+- `storm-damage-roofing-google-maps-audit.html` — storm-damage-roofing-specific offer page with the same live Stripe checkouts
 - `hvac-google-maps-audit.html` — HVAC-specific offer page with the same live Stripe checkouts
 - `no-cool-hvac-google-maps-audit.html` — no-cool-HVAC-specific offer page with the same live Stripe checkouts
 - `garage-door-google-maps-audit.html` — garage-door-specific offer page with the same live Stripe checkouts
@@ -147,5 +148,6 @@ Included assets:
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
 - `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
 - `RUN-2026-06-26-emergency-service-marketplace-pack.md` — run note for adding an urgent local-service marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-storm-damage-roofing-page.md` — run note for adding a storm-damage roofing niche page and linking it across the urgent-service distribution stack
 - `RUN-2026-06-27-no-cool-hvac-page.md` — run note for adding a no-cool-HVAC niche page to the marketplace offer cluster
 - `RUN-2026-06-26-restoration-company-page.md` — run note for adding a restoration-company umbrella niche page to the marketplace offer cluster
