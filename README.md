@@ -80,6 +80,7 @@ Included assets:
 - `window-replacement-google-maps-audit.html` — window-replacement-specific offer page with the same live Stripe checkouts
 - `foundation-repair-google-maps-audit.html` — foundation-repair-specific offer page with the same live Stripe checkouts
 - `basement-waterproofing-google-maps-audit.html` — basement-waterproofing-specific offer page with the same live Stripe checkouts
+- `crawl-space-encapsulation-google-maps-audit.html` — crawl-space-encapsulation-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
 - `google-maps-visibility-marketplace-launch-kit.zip` — handoff-ready seller bundle with listing assets + posting checklist
 
@@ -97,6 +98,7 @@ Included assets:
 - basement-waterproofing-google-maps-audit.html — tighter page for basement leak repair, sump-pump installs, french drains, crawl-space encapsulation, and drainage-correction estimate intent
 - flooring-contractor-google-maps-audit.html — tighter page for hardwood installation, LVP upgrades, tile replacement, carpet refresh, and floor-remodel estimate intent
 - concrete-leveling-google-maps-audit.html — tighter page for slab lifting, mudjacking, polyjacking, sidewalk leveling, and sinking-driveway estimate intent
+- crawl-space-encapsulation-google-maps-audit.html — tighter page for vapor barriers, moisture control, dehumidifier installs, floor-joist repair, and crawl-space estimate intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
@@ -107,3 +109,4 @@ Included assets:
 - `RUN-2026-06-26-flooring-contractor-page.md` — run note for adding a flooring-contractor niche page to the marketplace offer cluster
 
 - `RUN-2026-06-26-concrete-leveling-page.md` — run note for adding a concrete-leveling niche page to the marketplace offer cluster
+- `RUN-2026-06-26-crawl-space-encapsulation-page.md` — run note for adding a crawl-space-encapsulation niche page to the marketplace offer cluster
