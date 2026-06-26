@@ -63,6 +63,7 @@ Included assets:
 - `painting-contractor-google-maps-audit.html` — painting-contractor-specific offer page with the same live Stripe checkouts
 - `solar-installer-google-maps-audit.html` — solar-installer-specific offer page with the same live Stripe checkouts
 - `epoxy-flooring-google-maps-audit.html` — epoxy-flooring-specific offer page with the same live Stripe checkouts
+- `flooring-contractor-google-maps-audit.html` — flooring-contractor-specific offer page with the same live Stripe checkouts
 - `concrete-contractor-google-maps-audit.html` — concrete-contractor-specific offer page with the same live Stripe checkouts
 - `siding-contractor-google-maps-audit.html` — siding-contractor-specific offer page with the same live Stripe checkouts
 - `appliance-repair-google-maps-audit.html` — appliance-repair-specific offer page with the same live Stripe checkouts
@@ -93,6 +94,7 @@ Included assets:
 - window-replacement-google-maps-audit.html — tighter page for replacement windows, impact-window upgrades, patio doors, and energy-efficiency estimate intent
 - foundation-repair-google-maps-audit.html — tighter page for foundation repair, slab-crack diagnosis, house leveling, crawl-space support, and waterproofing estimate intent
 - basement-waterproofing-google-maps-audit.html — tighter page for basement leak repair, sump-pump installs, french drains, crawl-space encapsulation, and drainage-correction estimate intent
+- flooring-contractor-google-maps-audit.html — tighter page for hardwood installation, LVP upgrades, tile replacement, carpet refresh, and floor-remodel estimate intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
@@ -100,3 +102,4 @@ Included assets:
 - `RUN-2026-06-26-foundation-repair-page.md` — run note for adding a foundation-repair niche page to the marketplace offer cluster
 - `RUN-2026-06-26-gbp-verification-templates.md` — run note for adding a GBP verification helper page to the marketplace offer cluster
 - `RUN-2026-06-26-basement-waterproofing-page.md` — run note for adding a basement-waterproofing niche page to the marketplace offer cluster
+- `RUN-2026-06-26-flooring-contractor-page.md` — run note for adding a flooring-contractor niche page to the marketplace offer cluster
