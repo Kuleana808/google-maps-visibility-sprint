@@ -78,6 +78,7 @@ Included assets:
 - `moving-company-google-maps-audit.html` — moving-company-specific offer page with the same live Stripe checkouts
 - `auto-repair-google-maps-audit.html` — auto-repair-specific offer page with the same live Stripe checkouts
 - `collision-repair-google-maps-audit.html` — collision-repair-specific offer page with the same live Stripe checkouts
+- `window-tint-google-maps-audit.html` — window-tint-specific offer page with the same live Stripe checkouts
 - `towing-company-google-maps-audit.html` — towing-company-specific offer page with the same live Stripe checkouts
 - `gutter-company-google-maps-audit.html` — gutter-company-specific offer page with the same live Stripe checkouts
 - `window-cleaning-google-maps-audit.html` — window-cleaning-specific offer page with the same live Stripe checkouts
@@ -109,6 +110,7 @@ Included assets:
 - `deck-builder-google-maps-audit.html` — tighter page for composite decking, wood deck rebuilds, covered porches, railing upgrades, and backyard-project estimate intent
 - `fire-damage-restoration-google-maps-audit.html` — tighter page for smoke cleanup, soot removal, board-up work, odor mitigation, and insurance-rebuild estimate intent
 - `mold-remediation-google-maps-audit.html` — tighter page for mold inspection, black mold cleanup, crawl-space remediation, attic remediation, and moisture-control estimate intent
+- `window-tint-google-maps-audit.html` — tighter page for ceramic tint, windshield film, Tesla tint, PPF upsells, and residential/commercial film estimate intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
@@ -127,3 +129,4 @@ Included assets:
 - `RUN-2026-06-26-fire-damage-restoration-page.md` — run note for adding a fire-damage-restoration niche page to the marketplace offer cluster
 - `RUN-2026-06-26-mold-remediation-page.md` — run note for adding a mold-remediation niche page to the marketplace offer cluster
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
+- `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
