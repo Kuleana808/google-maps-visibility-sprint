@@ -42,7 +42,10 @@ Included assets:
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `emergency-service-marketplace-pack.html` — urgent local-service marketplace packaging for locksmith, plumbing, HVAC, towing, roofing, and restoration niches
+- `locksmith-marketplace-pack.html` — locksmith marketplace packaging for lockout, rekey, lock-change, car-key, and commercial-locksmith angles
 - `roadside-assistance-marketplace-pack.html` — roadside-assistance marketplace packaging for towing, jump-start, lockout, flat-tire, fuel-delivery, accident-recovery, and winch-out angles
+- `storm-damage-roofing-marketplace-pack.html` — storm-damage-roofing marketplace packaging for roof leak, hail, tarping, wind-damage, and insurance-claim angles
+- `water-damage-restoration-marketplace-pack.html` — water-damage-restoration marketplace packaging for flood cleanup, sewage cleanup, dry-out, mold remediation, and emergency mitigation angles
 - `auto-repair-marketplace-pack.html` — auto-service marketplace packaging for independent repair shops, brake/tire shops, diagnostics, transmission, collision repair, and body-shop angles
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `google-maps-visibility-digital-bundle.html` — public product-style offer page for Gumroad/Payhip/Etsy-style shelves and downloadable-bundle distribution
@@ -155,7 +158,10 @@ Included assets:
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
 - `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
 - `RUN-2026-06-26-emergency-service-marketplace-pack.md` — run note for adding an urgent local-service marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-locksmith-marketplace-pack.md` — run note for adding a locksmith marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-auto-repair-marketplace-pack.md` — run note for adding an auto-service marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-storm-damage-roofing-marketplace-pack.md` — run note for adding a storm-damage-roofing marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-water-damage-restoration-marketplace-pack.md` — run note for adding a water-damage-restoration marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-storm-damage-roofing-page.md` — run note for adding a storm-damage roofing niche page and linking it across the urgent-service distribution stack
 - `RUN-2026-06-27-no-cool-hvac-page.md` — run note for adding a no-cool-HVAC niche page to the marketplace offer cluster
 - `RUN-2026-06-26-restoration-company-page.md` — run note for adding a restoration-company umbrella niche page to the marketplace offer cluster
