@@ -12,6 +12,7 @@ Included assets:
 - `google-maps-roi-calculator.html` — free inbound calculator that estimates local map-pack call, job, and revenue lift
 - `google-review-request-templates.html` — public template library that captures review-intent traffic with SMS + email scripts for local operators
 - `google-review-response-templates.html` — public template library that captures review-response intent with positive-review replies, 3-star recovery responses, and complaint-handling scripts for local operators
+- `google-business-profile-review-gating-alternatives.html` — public template library that captures review-gating, review-filtering, and policy-safe review-request intent with safer ask wording and recovery-first follow-up scripts for local operators
 - `google-business-profile-post-prompts.html` — public template library that captures Google Business Profile posting-intent traffic with weekly post ideas and niche-specific prompts for local operators
 - `google-business-profile-description-templates.html` — public template library that captures Google Business Profile business-description and service-area-copy intent with niche-specific description starters for local operators
 - `google-business-profile-service-area-templates.html` — public template library that captures Google Business Profile service-area, cities-served, travel-radius, and local-coverage intent with niche-specific wording starters for local operators
