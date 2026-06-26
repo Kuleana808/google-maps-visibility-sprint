@@ -63,6 +63,7 @@ Included assets:
 - `house-cleaning-google-maps-audit.html` — house-cleaning-specific offer page with the same live Stripe checkouts
 - `fence-company-google-maps-audit.html` — fence-company-specific offer page with the same live Stripe checkouts
 - `water-damage-restoration-google-maps-audit.html` — water-damage-restoration-specific offer page with the same live Stripe checkouts
+- `fire-damage-restoration-google-maps-audit.html` — fire-damage-restoration-specific offer page with the same live Stripe checkouts
 - `mold-remediation-google-maps-audit.html` — mold-remediation-specific offer page with the same live Stripe checkouts
 - `painting-contractor-google-maps-audit.html` — painting-contractor-specific offer page with the same live Stripe checkouts
 - `solar-installer-google-maps-audit.html` — solar-installer-specific offer page with the same live Stripe checkouts
@@ -104,9 +105,10 @@ Included assets:
 - basement-waterproofing-google-maps-audit.html — tighter page for basement leak repair, sump-pump installs, french drains, crawl-space encapsulation, and drainage-correction estimate intent
 - flooring-contractor-google-maps-audit.html — tighter page for hardwood installation, LVP upgrades, tile replacement, carpet refresh, and floor-remodel estimate intent
 - concrete-leveling-google-maps-audit.html — tighter page for slab lifting, mudjacking, polyjacking, sidewalk leveling, and sinking-driveway estimate intent
-- crawl-space-encapsulation-google-maps-audit.html — tighter page for vapor barriers, moisture control, dehumidifier installs, floor-joist repair, and crawl-space estimate intent
-- deck-builder-google-maps-audit.html — tighter page for composite decking, wood deck rebuilds, covered porches, railing upgrades, and backyard-project estimate intent
-- mold-remediation-google-maps-audit.html — tighter page for mold inspection, black mold cleanup, crawl-space remediation, attic remediation, and moisture-control estimate intent
+- `crawl-space-encapsulation-google-maps-audit.html` — tighter page for vapor barriers, moisture control, dehumidifier installs, floor-joist repair, and crawl-space estimate intent
+- `deck-builder-google-maps-audit.html` — tighter page for composite decking, wood deck rebuilds, covered porches, railing upgrades, and backyard-project estimate intent
+- `fire-damage-restoration-google-maps-audit.html` — tighter page for smoke cleanup, soot removal, board-up work, odor mitigation, and insurance-rebuild estimate intent
+- `mold-remediation-google-maps-audit.html` — tighter page for mold inspection, black mold cleanup, crawl-space remediation, attic remediation, and moisture-control estimate intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
@@ -122,5 +124,6 @@ Included assets:
 - `RUN-2026-06-26-concrete-leveling-page.md` — run note for adding a concrete-leveling niche page to the marketplace offer cluster
 - `RUN-2026-06-26-crawl-space-encapsulation-page.md` — run note for adding a crawl-space-encapsulation niche page to the marketplace offer cluster
 - `RUN-2026-06-25-deck-builder-page.md` — run note for adding a deck-builder niche page to the marketplace offer cluster
+- `RUN-2026-06-26-fire-damage-restoration-page.md` — run note for adding a fire-damage-restoration niche page to the marketplace offer cluster
 - `RUN-2026-06-26-mold-remediation-page.md` — run note for adding a mold-remediation niche page to the marketplace offer cluster
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
