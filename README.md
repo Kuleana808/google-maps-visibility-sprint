@@ -58,6 +58,7 @@ Included assets:
 - `storm-damage-roofing-google-maps-audit.html` — storm-damage-roofing-specific offer page with the same live Stripe checkouts
 - `hvac-google-maps-audit.html` — HVAC-specific offer page with the same live Stripe checkouts
 - `no-cool-hvac-google-maps-audit.html` — no-cool-HVAC-specific offer page with the same live Stripe checkouts
+- `roadside-assistance-google-maps-audit.html` — roadside-assistance-specific offer page with the same live Stripe checkouts
 - `garage-door-google-maps-audit.html` — garage-door-specific offer page with the same live Stripe checkouts
 - `electrician-google-maps-audit.html` — electrician-specific offer page with the same live Stripe checkouts
 - `locksmith-google-maps-audit.html` — locksmith-specific offer page with the same live Stripe checkouts
@@ -127,6 +128,7 @@ Included assets:
 - `mold-remediation-google-maps-audit.html` — tighter page for mold inspection, black mold cleanup, crawl-space remediation, attic remediation, and moisture-control estimate intent
 - `window-tint-google-maps-audit.html` — tighter page for ceramic tint, windshield film, Tesla tint, PPF upsells, and residential/commercial film estimate intent
 - `no-cool-hvac-google-maps-audit.html` — tighter page for no-cool AC, same-day HVAC dispatch, thermostat failures, compressor issues, and after-hours cooling-repair intent
+- `roadside-assistance-google-maps-audit.html` — tighter page for jump-start, lockout, flat-tire, fuel-delivery, winch-out, and urgent roadside-dispatch intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
