@@ -74,6 +74,7 @@ Included assets:
 - `carpet-cleaning-google-maps-audit.html` — carpet-cleaning-specific offer page with the same live Stripe checkouts
 - `moving-company-google-maps-audit.html` — moving-company-specific offer page with the same live Stripe checkouts
 - `auto-repair-google-maps-audit.html` — auto-repair-specific offer page with the same live Stripe checkouts
+- `collision-repair-google-maps-audit.html` — collision-repair-specific offer page with the same live Stripe checkouts
 - `towing-company-google-maps-audit.html` — towing-company-specific offer page with the same live Stripe checkouts
 - `gutter-company-google-maps-audit.html` — gutter-company-specific offer page with the same live Stripe checkouts
 - `window-cleaning-google-maps-audit.html` — window-cleaning-specific offer page with the same live Stripe checkouts
@@ -112,6 +113,8 @@ Included assets:
 - `RUN-2026-06-26-gbp-verification-templates.md` — run note for adding a GBP verification helper page to the marketplace offer cluster
 - `RUN-2026-06-26-basement-waterproofing-page.md` — run note for adding a basement-waterproofing niche page to the marketplace offer cluster
 - `RUN-2026-06-26-flooring-contractor-page.md` — run note for adding a flooring-contractor niche page to the marketplace offer cluster
+
+- `RUN-2026-06-26-collision-repair-page.md` — run note for adding a collision-repair niche page to the marketplace offer cluster
 
 - `RUN-2026-06-26-concrete-leveling-page.md` — run note for adding a concrete-leveling niche page to the marketplace offer cluster
 - `RUN-2026-06-26-crawl-space-encapsulation-page.md` — run note for adding a crawl-space-encapsulation niche page to the marketplace offer cluster
