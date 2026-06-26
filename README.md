@@ -31,6 +31,7 @@ Included assets:
 - `google-business-profile-optimization-checklist.html` — public checklist page that captures Google Business Profile optimization-checklist and profile-audit intent for local operators
 - `google-business-profile-template-library.html` — public hub that aggregates the GBP helper-page cluster into one shareable inbound resource for directories, communities, partners, and mixed-intent buyers
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
+- `partner-referral-pack.html` — forwardable copy for consultants, SaaS partners, newsletters, communities, and resource pages that can refer buyers into the live checkout offers
 - `google-maps-audit-directory.html` — public archive / directory page that links niche Google Maps audit pages from one canonical URL
 - `facebook-craigslist-pack.html` — dedicated Facebook Marketplace and Craigslist listing pack with local hooks and reply scripts
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
