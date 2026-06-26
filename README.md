@@ -31,6 +31,7 @@ Included assets:
 - `google-business-profile-reinstatement-checklist.html` — public checklist page that captures Google Business Profile reinstatement checklist, suspension recovery steps, contradiction cleanup, and appeal-packet-prep intent for local operators
 - `google-business-profile-duplicate-listing-cleanup.html` — public cleanup guide that captures Google Business Profile duplicate listing, moved-location contradiction, practitioner-overlap, and canonical-profile intent for local operators
 - `google-business-profile-practitioner-profile-templates.html` — public template library that captures Google Business Profile practitioner-profile, provider-page setup, former-provider cleanup, and office-vs-practitioner structure intent for local operators
+- `google-business-profile-business-name-templates.html` — public template library that captures Google Business Profile business-name, DBA clarification, keyword-stuffing cleanup, renamed-business proof, and profile-title wording intent for local operators
 - `google-business-profile-verification-templates.html` — public template library that captures Google Business Profile verification, postcard wording, video-proof, address-clarification, and stuck-profile follow-up intent for local operators
 - `google-business-profile-optimization-checklist.html` — public checklist page that captures Google Business Profile optimization-checklist and profile-audit intent for local operators
 - `google-business-profile-template-library.html` — public hub that aggregates the GBP helper-page cluster into one shareable inbound resource for directories, communities, partners, and mixed-intent buyers
@@ -128,6 +129,7 @@ Included assets:
 - `RUN-2026-06-25-gbp-reinstatement-checklist.md` — run note for adding a GBP reinstatement checklist helper page to the marketplace offer cluster
 - `RUN-2026-06-26-gbp-duplicate-listing-cleanup.md` — run note for adding a GBP duplicate-listing cleanup helper page to the marketplace offer cluster
 - `RUN-2026-06-26-gbp-practitioner-profile-templates.md` — run note for adding a GBP practitioner-profile helper page to the marketplace offer cluster
+- `RUN-2026-06-26-gbp-business-name-library.md` — run note for adding a GBP business-name helper page to the marketplace offer cluster
 
 - `RUN-2026-06-26-collision-repair-page.md` — run note for adding a collision-repair niche page to the marketplace offer cluster
 
