@@ -44,6 +44,7 @@ Included assets:
 - `emergency-service-marketplace-pack.html` — urgent local-service marketplace packaging for locksmith, plumbing, HVAC, towing, roofing, and restoration niches
 - `locksmith-marketplace-pack.html` — locksmith marketplace packaging for lockout, rekey, lock-change, car-key, and commercial-locksmith angles
 - `roadside-assistance-marketplace-pack.html` — roadside-assistance marketplace packaging for towing, jump-start, lockout, flat-tire, fuel-delivery, accident-recovery, and winch-out angles
+- `towing-company-marketplace-pack.html` — towing-company marketplace packaging for emergency towing, accident recovery, flatbed dispatch, heavy-duty service, and tow-truck-intent angles
 - `no-cool-hvac-marketplace-pack.html` — no-cool-HVAC marketplace packaging for same-day AC repair, after-hours cooling calls, thermostat failures, compressor issues, and peak-heat dispatch angles
 - `storm-damage-roofing-marketplace-pack.html` — storm-damage-roofing marketplace packaging for roof leak, hail, tarping, wind-damage, and insurance-claim angles
 - `water-damage-restoration-marketplace-pack.html` — water-damage-restoration marketplace packaging for flood cleanup, sewage cleanup, dry-out, mold remediation, and emergency mitigation angles
@@ -169,4 +170,5 @@ Included assets:
 - `RUN-2026-06-27-no-cool-hvac-page.md` — run note for adding a no-cool-HVAC niche page to the marketplace offer cluster
 - `RUN-2026-06-27-no-cool-hvac-marketplace-pack.md` — run note for adding a no-cool-HVAC marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-27-brake-repair-page.md` — run note for adding a brake-repair niche page to the marketplace offer cluster
+- `RUN-2026-06-27-towing-company-marketplace-pack.md` — run note for adding a towing-company marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-26-restoration-company-page.md` — run note for adding a restoration-company umbrella niche page to the marketplace offer cluster
