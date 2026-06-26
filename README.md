@@ -53,6 +53,7 @@ Included assets:
 - `septic-service-google-maps-audit.html` — septic-service-specific offer page with the same live Stripe checkouts
 - `roofing-google-maps-audit.html` — roofer-specific offer page with the same live Stripe checkouts
 - `hvac-google-maps-audit.html` — HVAC-specific offer page with the same live Stripe checkouts
+- `no-cool-hvac-google-maps-audit.html` — no-cool-HVAC-specific offer page with the same live Stripe checkouts
 - `garage-door-google-maps-audit.html` — garage-door-specific offer page with the same live Stripe checkouts
 - `electrician-google-maps-audit.html` — electrician-specific offer page with the same live Stripe checkouts
 - `locksmith-google-maps-audit.html` — locksmith-specific offer page with the same live Stripe checkouts
@@ -120,6 +121,7 @@ Included assets:
 - `biohazard-cleanup-google-maps-audit.html` — tighter page for trauma cleanup, crime-scene cleanup, hoarding cleanup, unattended-death cleanup, and odor-remediation estimate intent
 - `mold-remediation-google-maps-audit.html` — tighter page for mold inspection, black mold cleanup, crawl-space remediation, attic remediation, and moisture-control estimate intent
 - `window-tint-google-maps-audit.html` — tighter page for ceramic tint, windshield film, Tesla tint, PPF upsells, and residential/commercial film estimate intent
+- `no-cool-hvac-google-maps-audit.html` — tighter page for no-cool AC, same-day HVAC dispatch, thermostat failures, compressor issues, and after-hours cooling-repair intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
@@ -145,4 +147,5 @@ Included assets:
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
 - `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
 - `RUN-2026-06-26-emergency-service-marketplace-pack.md` — run note for adding an urgent local-service marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-27-no-cool-hvac-page.md` — run note for adding a no-cool-HVAC niche page to the marketplace offer cluster
 - `RUN-2026-06-26-restoration-company-page.md` — run note for adding a restoration-company umbrella niche page to the marketplace offer cluster
