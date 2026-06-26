@@ -42,6 +42,8 @@ Included assets:
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `emergency-service-marketplace-pack.html` — urgent local-service marketplace packaging for locksmith, plumbing, HVAC, towing, roofing, and restoration niches
+- `roadside-assistance-marketplace-pack.html` — roadside-assistance marketplace packaging for towing, jump-start, lockout, flat-tire, fuel-delivery, accident-recovery, and winch-out angles
+- `auto-repair-marketplace-pack.html` — auto-service marketplace packaging for independent repair shops, brake/tire shops, diagnostics, transmission, collision repair, and body-shop angles
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `google-maps-visibility-digital-bundle.html` — public product-style offer page for Gumroad/Payhip/Etsy-style shelves and downloadable-bundle distribution
 - `vertical-quickstart.html` — niche-specific med spa, chiropractor, dentist, pest-control, electrician, and home-service listing copy
@@ -50,6 +52,7 @@ Included assets:
 - `pediatric-dentist-google-maps-audit.html` — pediatric-dentistry-specific offer page with the same live Stripe checkouts
 - `cosmetic-dentistry-google-maps-audit.html` — cosmetic-dentistry-specific offer page with the same live Stripe checkouts
 - `plumber-google-maps-audit.html` — plumber-specific offer page with the same live Stripe checkouts
+- `drain-cleaning-google-maps-audit.html` — drain-cleaning-specific offer page with the same live Stripe checkouts
 - `septic-service-google-maps-audit.html` — septic-service-specific offer page with the same live Stripe checkouts
 - `roofing-google-maps-audit.html` — roofer-specific offer page with the same live Stripe checkouts
 - `storm-damage-roofing-google-maps-audit.html` — storm-damage-roofing-specific offer page with the same live Stripe checkouts
@@ -106,6 +109,7 @@ Included assets:
 - pediatric-dentist-google-maps-audit.html — tighter page for kids dentist, parent-intent, emergency pediatric visit, and sedation consult searches
 - cosmetic-dentistry-google-maps-audit.html — tighter page for veneer / Invisalign / implant consult intent
 - carpet-cleaning-google-maps-audit.html — tighter page for carpet cleaning, upholstery, rug, tile-and-grout, and pet-odor local-intent buyers
+- drain-cleaning-google-maps-audit.html — tighter page for clogged drain, rooter service, hydro jetting, sewer backup, and emergency drain-service local-intent buyers
 - window-cleaning-google-maps-audit.html — tighter page for residential window washing, storefront glass cleaning, hard-water stain removal, gutter brightening, and recurring route local-intent buyers
 - orthodontist-google-maps-audit.html — tighter page for braces, Invisalign, teen treatment, retainers, and adult-orthodontics consult intent
 - bathroom-remodeler-google-maps-audit.html — tighter page for bathroom remodel, shower conversion, walk-in shower, and bathroom-renovation estimate intent
@@ -137,6 +141,7 @@ Included assets:
 - `RUN-2026-06-26-gbp-business-name-library.md` — run note for adding a GBP business-name helper page to the marketplace offer cluster
 
 - `RUN-2026-06-26-collision-repair-page.md` — run note for adding a collision-repair niche page to the marketplace offer cluster
+- `RUN-2026-06-26-drain-cleaning-page.md` — run note for adding a drain-cleaning niche page to the marketplace offer cluster
 
 - `RUN-2026-06-26-concrete-leveling-page.md` — run note for adding a concrete-leveling niche page to the marketplace offer cluster
 - `RUN-2026-06-26-crawl-space-encapsulation-page.md` — run note for adding a crawl-space-encapsulation niche page to the marketplace offer cluster
@@ -148,6 +153,7 @@ Included assets:
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
 - `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
 - `RUN-2026-06-26-emergency-service-marketplace-pack.md` — run note for adding an urgent local-service marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-auto-repair-marketplace-pack.md` — run note for adding an auto-service marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-storm-damage-roofing-page.md` — run note for adding a storm-damage roofing niche page and linking it across the urgent-service distribution stack
 - `RUN-2026-06-27-no-cool-hvac-page.md` — run note for adding a no-cool-HVAC niche page to the marketplace offer cluster
 - `RUN-2026-06-26-restoration-company-page.md` — run note for adding a restoration-company umbrella niche page to the marketplace offer cluster
