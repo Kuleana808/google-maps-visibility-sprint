@@ -41,6 +41,7 @@ Included assets:
 - `facebook-craigslist-pack.html` — dedicated Facebook Marketplace and Craigslist listing pack with local hooks and reply scripts
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
+- `emergency-service-marketplace-pack.html` — urgent local-service marketplace packaging for locksmith, plumbing, HVAC, towing, roofing, and restoration niches
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `google-maps-visibility-digital-bundle.html` — public product-style offer page for Gumroad/Payhip/Etsy-style shelves and downloadable-bundle distribution
 - `vertical-quickstart.html` — niche-specific med spa, chiropractor, dentist, pest-control, electrician, and home-service listing copy
@@ -142,3 +143,4 @@ Included assets:
 - `RUN-2026-06-26-mold-remediation-page.md` — run note for adding a mold-remediation niche page to the marketplace offer cluster
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
 - `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
+- `RUN-2026-06-26-emergency-service-marketplace-pack.md` — run note for adding an urgent local-service marketplace packaging page to the marketplace offer cluster
