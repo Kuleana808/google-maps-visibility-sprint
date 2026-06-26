@@ -66,6 +66,7 @@ Included assets:
 - `pressure-washing-google-maps-audit.html` — pressure-washing-specific offer page with the same live Stripe checkouts
 - `house-cleaning-google-maps-audit.html` — house-cleaning-specific offer page with the same live Stripe checkouts
 - `fence-company-google-maps-audit.html` — fence-company-specific offer page with the same live Stripe checkouts
+- `restoration-company-google-maps-audit.html` — restoration-company umbrella offer page with the same live Stripe checkouts
 - `water-damage-restoration-google-maps-audit.html` — water-damage-restoration-specific offer page with the same live Stripe checkouts
 - `fire-damage-restoration-google-maps-audit.html` — fire-damage-restoration-specific offer page with the same live Stripe checkouts
 - `biohazard-cleanup-google-maps-audit.html` — biohazard-cleanup-specific offer page with the same live Stripe checkouts
@@ -144,3 +145,4 @@ Included assets:
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
 - `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
 - `RUN-2026-06-26-emergency-service-marketplace-pack.md` — run note for adding an urgent local-service marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-restoration-company-page.md` — run note for adding a restoration-company umbrella niche page to the marketplace offer cluster
