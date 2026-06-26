@@ -67,6 +67,7 @@ Included assets:
 - `concrete-contractor-google-maps-audit.html` — concrete-contractor-specific offer page with the same live Stripe checkouts
 - `concrete-leveling-google-maps-audit.html` — concrete-leveling-specific offer page with the same live Stripe checkouts
 - `siding-contractor-google-maps-audit.html` — siding-contractor-specific offer page with the same live Stripe checkouts
+- `deck-builder-google-maps-audit.html` — deck-builder-specific offer page with the same live Stripe checkouts
 - `appliance-repair-google-maps-audit.html` — appliance-repair-specific offer page with the same live Stripe checkouts
 - `carpet-cleaning-google-maps-audit.html` — carpet-cleaning-specific offer page with the same live Stripe checkouts
 - `moving-company-google-maps-audit.html` — moving-company-specific offer page with the same live Stripe checkouts
@@ -99,6 +100,7 @@ Included assets:
 - flooring-contractor-google-maps-audit.html — tighter page for hardwood installation, LVP upgrades, tile replacement, carpet refresh, and floor-remodel estimate intent
 - concrete-leveling-google-maps-audit.html — tighter page for slab lifting, mudjacking, polyjacking, sidewalk leveling, and sinking-driveway estimate intent
 - crawl-space-encapsulation-google-maps-audit.html — tighter page for vapor barriers, moisture control, dehumidifier installs, floor-joist repair, and crawl-space estimate intent
+- deck-builder-google-maps-audit.html — tighter page for composite decking, wood deck rebuilds, covered porches, railing upgrades, and backyard-project estimate intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
 - `RUN-2026-06-25-window-replacement-page.md` — run note for adding a window-replacement niche page to the marketplace offer cluster
@@ -110,3 +112,4 @@ Included assets:
 
 - `RUN-2026-06-26-concrete-leveling-page.md` — run note for adding a concrete-leveling niche page to the marketplace offer cluster
 - `RUN-2026-06-26-crawl-space-encapsulation-page.md` — run note for adding a crawl-space-encapsulation niche page to the marketplace offer cluster
+- `RUN-2026-06-25-deck-builder-page.md` — run note for adding a deck-builder niche page to the marketplace offer cluster
