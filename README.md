@@ -29,6 +29,7 @@ Included assets:
 - `google-business-profile-offer-templates.html` — public template library that captures Google Business Profile intro-offer, inspection-special, maintenance-plan, and limited-time-promo intent for local operators
 - `google-business-profile-suspension-appeal-templates.html` — public template library that captures Google Business Profile suspension appeal, reinstatement request, duplicate cleanup, and profile-proof intent for local operators
 - `google-business-profile-reinstatement-checklist.html` — public checklist page that captures Google Business Profile reinstatement checklist, suspension recovery steps, contradiction cleanup, and appeal-packet-prep intent for local operators
+- `google-business-profile-duplicate-listing-cleanup.html` — public cleanup guide that captures Google Business Profile duplicate listing, moved-location contradiction, practitioner-overlap, and canonical-profile intent for local operators
 - `google-business-profile-verification-templates.html` — public template library that captures Google Business Profile verification, postcard wording, video-proof, address-clarification, and stuck-profile follow-up intent for local operators
 - `google-business-profile-optimization-checklist.html` — public checklist page that captures Google Business Profile optimization-checklist and profile-audit intent for local operators
 - `google-business-profile-template-library.html` — public hub that aggregates the GBP helper-page cluster into one shareable inbound resource for directories, communities, partners, and mixed-intent buyers
@@ -120,6 +121,7 @@ Included assets:
 - `RUN-2026-06-26-basement-waterproofing-page.md` — run note for adding a basement-waterproofing niche page to the marketplace offer cluster
 - `RUN-2026-06-26-flooring-contractor-page.md` — run note for adding a flooring-contractor niche page to the marketplace offer cluster
 - `RUN-2026-06-25-gbp-reinstatement-checklist.md` — run note for adding a GBP reinstatement checklist helper page to the marketplace offer cluster
+- `RUN-2026-06-26-gbp-duplicate-listing-cleanup.md` — run note for adding a GBP duplicate-listing cleanup helper page to the marketplace offer cluster
 
 - `RUN-2026-06-26-collision-repair-page.md` — run note for adding a collision-repair niche page to the marketplace offer cluster
 

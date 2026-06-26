@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Google Business Profile Duplicate Listing Cleanup Guide for Local Service Businesses</title>
+  <meta name="description" content="Free Google Business Profile duplicate listing cleanup guide for local service businesses. Use this GBP duplicate-profile checklist to identify duplicate listings, pick the canonical profile, clean public contradictions, and route into a fixed-price Google Maps audit or done-for-you optimization once the listing stack is stable again." />
+  <link rel="canonical" href="https://kuleana808.github.io/google-maps-visibility-sprint/google-business-profile-duplicate-listing-cleanup.html" />
+  <meta name="robots" content="index,follow" />
+  <meta property="og:title" content="Google Business Profile Duplicate Listing Cleanup Guide for Local Service Businesses" />
+  <meta property="og:description" content="A practical GBP duplicate-listing cleanup guide for owners who need to identify duplicate profiles, pick the canonical listing, and clean contradiction-heavy local signals before rankings suffer." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://kuleana808.github.io/google-maps-visibility-sprint/google-business-profile-duplicate-listing-cleanup.html" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #111936;
+      --panel2: #f7f9fc;
+      --text: #eef2ff;
+      --muted: #b8c2e0;
+      --dark: #12203d;
+      --line: #24345d;
+      --brand: #67e8f9;
+      --brand2: #2563eb;
+      --ok: #10b981;
+      --warn: #f59e0b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+      color: var(--text);
+      background: linear-gradient(180deg, #08101f 0%, #0f1730 55%, #eef4fb 55%, #eef4fb 100%);
+      line-height: 1.55;
+    }
+    .wrap { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+    .hero { padding: 72px 0 54px; }
+    .eyebrow {
+      display: inline-block; padding: 7px 12px; border-radius: 999px;
+      background: rgba(103,232,249,.12); color: var(--brand); font-size: 13px; font-weight: 700;
+      letter-spacing: .04em; text-transform: uppercase;
+    }
+    h1 { font-size: 48px; line-height: 1.04; margin: 18px 0 16px; max-width: 940px; letter-spacing: -0.03em; }
+    .sub { max-width: 840px; color: var(--muted); font-size: 20px; margin-bottom: 26px; }
+    .hero-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 24px; align-items: start; }
+    .panel, .mini, .card, .faq, .step, .note {
+      border: 1px solid var(--line);
+      border-radius: 20px;
+    }
+    .panel { background: rgba(17,25,54,.78); padding: 22px; }
+    .panel h3 { margin: 0 0 10px; font-size: 18px; }
+    .panel ul { margin: 0; padding-left: 18px; color: var(--muted); }
+    .panel li { margin: 8px 0; }
+    .stat-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 16px; }
+    .mini { background: rgba(103,232,249,.08); padding: 14px; text-align: center; }
+    .mini b { display: block; font-size: 24px; color: #fff; margin-bottom: 4px; }
+    .cta-row { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 22px; }
+    .cta { display: inline-block; text-decoration: none; font-weight: 800; border-radius: 14px; padding: 14px 18px; }
+    .cta.primary { background: #fff; color: #0f172a; }
+    .cta.secondary { background: rgba(255,255,255,.08); color: #fff; border: 1px solid rgba(255,255,255,.14); }
+    .section-light { color: #0f172a; padding: 44px 0 72px; }
+    .section-light h2 { font-size: 34px; margin: 0 0 10px; letter-spacing: -0.02em; text-align: center; }
+    .lead { text-align: center; max-width: 860px; margin: 0 auto 28px; color: #51607d; }
+    .grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+    .card, .faq, .step, .note {
+      background: #fff;
+      color: #10213f;
+      border-color: #d9e4f2;
+      box-shadow: 0 12px 40px rgba(15,23,42,.08);
+    }
+    .card, .step, .note { padding: 24px; }
+    .label {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: .04em;
+      text-transform: uppercase;
+      border-radius: 999px;
+      padding: 6px 10px;
+      background: #e0f2fe;
+      color: #075985;
+      margin-bottom: 14px;
+    }
+    .warn { background: #fef3c7; color: #92400e; }
+    ul.checklist { margin: 0; padding-left: 20px; }
+    ul.checklist li { margin: 10px 0; }
+    pre {
+      white-space: pre-wrap;
+      word-break: break-word;
+      background: #f6f9fc;
+      border: 1px solid #e3ebf5;
+      border-radius: 14px;
+      padding: 16px;
+      color: #10213f;
+      font-size: 14px;
+    }
+    .steps { display: grid; gap: 18px; margin-top: 28px; }
+    .steps h3, .faq h3, .card h3, .note h3 { margin: 0 0 10px; }
+    .faq-wrap { max-width: 900px; margin: 34px auto 0; display: grid; gap: 14px; }
+    .faq { padding: 18px 20px; }
+    footer { color: #6b7b95; text-align: center; padding: 28px 20px 54px; font-size: 14px; }
+    @media (max-width: 900px) {
+      .hero-grid, .grid { grid-template-columns: 1fr; }
+      h1 { font-size: 38px; }
+      .sub { font-size: 18px; }
+      .stat-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">Free checklist • GBP duplicate cleanup</span>
+        <h1>Use this Google Business Profile duplicate listing cleanup guide before two weak profiles split your local demand.</h1>
+        <p class="sub">This free page captures search intent around Google Business Profile duplicate listing cleanup, duplicate profile removal, practitioner-page conflicts, moved-location cleanup, and local citation contradictions. It gives local operators a practical canonical-listing workflow first, then routes them into the fixed-price Google Maps audit or done-for-you optimization once the profile stack is stable again.</p>
+        <div class="cta-row">
+          <a class="cta primary" href="https://buy.stripe.com/14A3cwaYr7mD4l2bFSenS01">Buy the $99 audit</a>
+          <a class="cta secondary" href="https://buy.stripe.com/7sY7sM1nR0Yf8Bi11eenS02">Buy the $349 DFY optimization</a>
+          <a class="cta secondary" href="google-business-profile-suspension-appeal-templates.html">GBP suspension appeal library</a>
+          <a class="cta secondary" href="google-business-profile-reinstatement-checklist.html">GBP reinstatement checklist</a>
+          <a class="cta secondary" href="google-business-profile-verification-templates.html">GBP verification library</a>
+          <a class="cta secondary" href="google-business-profile-template-library.html">GBP template library</a>
+          <a class="cta secondary" href="google-business-profile-optimization-checklist.html">GBP optimization checklist</a>
+          <a class="cta secondary" href="index.html">Main offer page</a>
+        </div>
+      </div>
+      <div class="panel">
+        <h3>Why this is a compounding inbound asset</h3>
+        <p>Duplicate-profile pain shows up before optimization work can compound. Owners search for how to remove duplicates, what to do with old practitioner pages, whether to merge or mark closed, and how to stop citations from contradicting the surviving profile. This page solves that tactical moment first with a reusable cleanup sequence, then bridges into the paid audit or implementation offers once the stack is stable enough to rank and convert.</p>
+        <div class="stat-grid">
+          <div class="mini"><b>6</b>cleanup stages</div>
+          <div class="mini"><b>1</b>canonical profile decision flow</div>
+          <div class="mini"><b>2</b>checkout-ready next steps</div>
+        </div>
+        <ul>
+          <li>Built for storefronts, SABs, practitioners, multi-location brands, and businesses inheriting messy GBP history from prior staff or agencies.</li>
+          <li>Useful when duplicate profiles are diluting reviews, splitting ranking signals, or creating suspension risk through contradictory public details.</li>
+          <li>Easy to share in SEO communities, support threads, partner newsletters, and local-business owner groups where duplicate-GBP questions recur.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-light">
+    <div class="wrap">
+      <h2>Google Business Profile duplicate listing cleanup guide</h2>
+      <p class="lead">Treat this as a practical cleanup sequence, not a platform guarantee. The goal is to identify the one profile that should survive, remove contradictory duplicates cleanly, and make the business identity easy for Google and buyers to understand again.</p>
+
+      <div class="grid">
+        <article class="card">
+          <div class="label">Stage 1 • Inventory the mess</div>
+          <h3>List every profile, location variant, and practitioner page first</h3>
+          <ul class="checklist">
+            <li>Search the brand name, old DBA names, prior addresses, old phone numbers, and practitioner names in Google Maps.</li>
+            <li>Document each live or suppressed listing URL, the visible business name, phone, category, and address or service-area setup.</li>
+            <li>Flag which pages appear to represent the same business versus a real separate practitioner or second location.</li>
+            <li>Do not start random edits until you know the full duplicate set.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="label">Stage 2 • Pick the canonical survivor</div>
+          <h3>Decide which profile should keep the demand, reviews, and authority</h3>
+          <ul class="checklist">
+            <li>Prefer the profile that matches the current real-world business setup, core category, and best proof trail.</li>
+            <li>Do not keep an old address-based profile alive just because it has age if the business no longer operates that way.</li>
+            <li>For practitioner-heavy businesses, confirm whether the extra profile is legitimately separate or should fold into the brand page.</li>
+            <li>Write down one sentence explaining why the chosen profile is the canonical listing.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="label">Stage 3 • Clean public contradictions</div>
+          <h3>Make the website and citation layer support the same story</h3>
+          <ul class="checklist">
+            <li>Update the website footer, contact page, schema, and location or practitioner pages so they reflect the surviving setup.</li>
+            <li>Remove or rewrite pages that promote retired addresses, duplicate phone numbers, or inactive practitioner/location combinations.</li>
+            <li>Check top citations and social profiles for stale naming or location details that make the duplicate look legitimate.</li>
+            <li>If the business moved, explain the move cleanly instead of leaving both addresses active everywhere.</li>
+          </ul>
+        </article>
+
+        <article class="card">
+          <div class="label">Stage 4 • Choose the cleanup action</div>
+          <h3>Match the tactic to the duplicate type</h3>
+          <ul class="checklist">
+            <li>Old location that no longer exists: prepare to mark closed or request removal with proof.</li>
+            <li>Practitioner/profile overlap: decide whether the practitioner page is truly eligible or should be removed or merged conceptually.</li>
+            <li>Service-area/storefront conflict: rewrite the business model and service-area explanation before requesting change.</li>
+            <li>Near-identical duplicate still live in Maps: prepare a short factual note explaining which profile is correct and why the other one creates confusion.</li>
+          </ul>
+        </article>
+      </div>
+
+      <div class="steps">
+        <article class="step">
+          <div class="label">Stage 5 • Support-note prep</div>
+          <h3>Draft one clean duplicate-cleanup explanation</h3>
+          <ul class="checklist">
+            <li>State which listing is the current legitimate business profile.</li>
+            <li>State which listing appears to be the duplicate or retired variant.</li>
+            <li>Explain whether the issue came from an old move, practitioner confusion, prior marketer edits, or citation drift.</li>
+            <li>Reference the proof and public corrections already completed.</li>
+          </ul>
+          <pre>Simple duplicate-cleanup note:
+The current legitimate Google Business Profile for this business is [canonical listing name/location].
+The duplicate or retired listing is [duplicate name/location].
+The duplicate appears to come from [old address / practitioner overlap / prior setup].
+We have updated the website and core public details to match the current business setup and request cleanup or review of the duplicate listing.</pre>
+        </article>
+
+        <article class="step">
+          <div class="label">Stage 6 • Post-cleanup stabilization</div>
+          <h3>Do not stop at removal — strengthen the survivor</h3>
+          <ul class="checklist">
+            <li>After the duplicate is removed or de-emphasized, review categories, services, photos, hours, and review flow on the surviving profile.</li>
+            <li>Track whether review count, ranking behavior, and branded searches are now consolidating around the right page.</li>
+            <li>Capture a short internal note about what caused the duplicate so the same setup is not recreated later.</li>
+            <li>Move into the optimization checklist or paid audit if the surviving profile is still weak on conversion and local relevance.</li>
+          </ul>
+        </article>
+
+        <article class="note">
+          <div class="label warn">Fast handoff prompt</div>
+          <h3>Use this summary if you need to brief an owner, operator, or client fast</h3>
+          <pre>Before trying to remove a GBP duplicate, inventory every live profile variant, choose the one canonical listing that matches the real business setup, clean website and citation contradictions, then submit one short factual duplicate-cleanup explanation instead of editing multiple profiles blindly.</pre>
+          <p>If the duplicate mess also created suspension or verification friction, route the business into the <a href="google-business-profile-suspension-appeal-templates.html">suspension appeal library</a>, the <a href="google-business-profile-reinstatement-checklist.html">reinstatement checklist</a>, the <a href="google-business-profile-verification-templates.html">verification library</a>, or the paid audit and DFY offer stack.</p>
+        </article>
+      </div>
+
+      <div class="faq-wrap">
+        <div class="faq">
+          <h3>When should I share this instead of the suspension appeal library?</h3>
+          <p>Share this duplicate-cleanup guide first when the biggest issue is multiple profiles, moved-location remnants, or practitioner overlap. Share the <a href="google-business-profile-suspension-appeal-templates.html">suspension appeal library</a> when the listing is already suspended and the operator mainly needs reinstatement wording.</p>
+        </div>
+        <div class="faq">
+          <h3>How is this different from the reinstatement checklist?</h3>
+          <p>The <a href="google-business-profile-reinstatement-checklist.html">reinstatement checklist</a> is the broader emergency workflow for suspended listings and appeal packets. This page is the narrower canonical-listing cleanup guide for duplicate profiles, old locations, practitioner conflicts, and contradictory public identity signals.</p>
+        </div>
+        <div class="faq">
+          <h3>How is this different from the verification library?</h3>
+          <p>The <a href="google-business-profile-verification-templates.html">verification library</a> is for postcard, video, proof, and stuck-verification wording. This page is for duplicate-profile identification, canonical-profile decisions, and public contradiction cleanup.</p>
+        </div>
+        <div class="faq">
+          <h3>Where does the paid offer fit?</h3>
+          <p>Use the free guide to stabilize the duplicate problem. Use the <a href="https://buy.stripe.com/14A3cwaYr7mD4l2bFSenS01">$99 audit</a> when you want an outside diagnosis on which profile should survive and what to clean up next, or the <a href="https://buy.stripe.com/7sY7sM1nR0Yf8Bi11eenS02">$349 done-for-you optimization</a> when you want the surviving profile cleaned up and improved for conversion.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    Built as a public inbound helper page for the Google Maps Visibility Sprint cluster. Pair it with the suspension appeal library, reinstatement checklist, verification library, template hub, and fixed-price audit or DFY optimization offers.
+  </footer>
+</body>
+</html>
