@@ -57,6 +57,7 @@ Included assets:
 - `auto-repair-marketplace-pack.html` — auto-service marketplace packaging for independent repair shops, brake/tire shops, diagnostics, transmission, collision repair, and body-shop angles
 - `auto-ac-repair-marketplace-pack.html` — auto-AC-repair marketplace packaging for no-cold-air diagnostics, recharge, compressor, condenser, and same-day cooling-call angles
 - `brake-repair-marketplace-pack.html` — brake-repair marketplace packaging for brake pads, rotors, ABS-warning, brake inspection, squeal-noise, and same-day safety-call angles
+- `med-spa-marketplace-pack.html` — med-spa marketplace packaging for Botox, filler, laser, facial, weight-loss, membership, and aesthetic-consult angles
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `google-maps-visibility-digital-bundle.html` — public product-style offer page for Gumroad/Payhip/Etsy-style shelves and downloadable-bundle distribution
 - `vertical-quickstart.html` — niche-specific med spa, chiropractor, dentist, pest-control, electrician, and home-service listing copy
@@ -189,5 +190,6 @@ Included assets:
 - `RUN-2026-06-27-brake-repair-marketplace-pack.md` — run note for adding a brake-repair marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-towing-company-marketplace-pack.md` — run note for adding a towing-company marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-biohazard-cleanup-marketplace-pack.md` — run note for adding a biohazard-cleanup marketplace pack to the marketplace offer cluster
+- `RUN-2026-06-27-med-spa-marketplace-pack.md` — run note for adding a med-spa marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-fire-damage-restoration-marketplace-pack.md` — run note for adding a fire-damage-restoration marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-26-restoration-company-page.md` — run note for adding a restoration-company umbrella niche page to the marketplace offer cluster
