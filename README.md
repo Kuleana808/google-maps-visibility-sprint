@@ -33,6 +33,7 @@ Included assets:
 - `google-business-profile-practitioner-profile-templates.html` — public template library that captures Google Business Profile practitioner-profile, provider-page setup, former-provider cleanup, and office-vs-practitioner structure intent for local operators
 - `google-business-profile-business-name-templates.html` — public template library that captures Google Business Profile business-name, DBA clarification, keyword-stuffing cleanup, renamed-business proof, and profile-title wording intent for local operators
 - `google-business-profile-verification-templates.html` — public template library that captures Google Business Profile verification, postcard wording, video-proof, address-clarification, and stuck-profile follow-up intent for local operators
+- `google-business-profile-video-verification-checklist.html` — public checklist page that captures Google Business Profile video-verification, storefront proof, service-area proof, and practitioner walkthrough intent for local operators
 - `google-business-profile-optimization-checklist.html` — public checklist page that captures Google Business Profile optimization-checklist and profile-audit intent for local operators
 - `google-business-profile-template-library.html` — public hub that aggregates the GBP helper-page cluster into one shareable inbound resource for directories, communities, partners, and mixed-intent buyers
 - `distribution-kit.html` — ready-to-paste listing/distribution copy
@@ -159,6 +160,7 @@ Included assets:
 - `RUN-2026-06-26-gbp-duplicate-listing-cleanup.md` — run note for adding a GBP duplicate-listing cleanup helper page to the marketplace offer cluster
 - `RUN-2026-06-26-gbp-practitioner-profile-templates.md` — run note for adding a GBP practitioner-profile helper page to the marketplace offer cluster
 - `RUN-2026-06-26-gbp-business-name-library.md` — run note for adding a GBP business-name helper page to the marketplace offer cluster
+- `RUN-2026-06-26-gbp-video-verification-checklist.md` — run note for adding a GBP video-verification checklist helper page to the marketplace offer cluster
 
 - `RUN-2026-06-26-collision-repair-page.md` — run note for adding a collision-repair niche page to the marketplace offer cluster
 - `RUN-2026-06-26-drain-cleaning-page.md` — run note for adding a drain-cleaning niche page to the marketplace offer cluster
