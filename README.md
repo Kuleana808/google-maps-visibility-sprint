@@ -42,6 +42,7 @@ Included assets:
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `emergency-service-marketplace-pack.html` — urgent local-service marketplace packaging for locksmith, plumbing, HVAC, towing, roofing, and restoration niches
+- `plumber-marketplace-pack.html` — plumber marketplace packaging for emergency plumbing, drain cleaning, water-heater repair, leak repair, sewer line, and same-day dispatch angles
 - `locksmith-marketplace-pack.html` — locksmith marketplace packaging for lockout, rekey, lock-change, car-key, and commercial-locksmith angles
 - `roadside-assistance-marketplace-pack.html` — roadside-assistance marketplace packaging for towing, jump-start, lockout, flat-tire, fuel-delivery, accident-recovery, and winch-out angles
 - `towing-company-marketplace-pack.html` — towing-company marketplace packaging for emergency towing, accident recovery, flatbed dispatch, heavy-duty service, and tow-truck-intent angles
@@ -162,6 +163,7 @@ Included assets:
 - `RUN-2026-06-26-septic-service-page.md` — run note for adding a septic-service niche page to the marketplace offer cluster
 - `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
 - `RUN-2026-06-26-emergency-service-marketplace-pack.md` — run note for adding an urgent local-service marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-plumber-marketplace-pack.md` — run note for adding a plumber marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-locksmith-marketplace-pack.md` — run note for adding a locksmith marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-auto-repair-marketplace-pack.md` — run note for adding an auto-service marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-storm-damage-roofing-marketplace-pack.md` — run note for adding a storm-damage-roofing marketplace packaging page to the marketplace offer cluster
