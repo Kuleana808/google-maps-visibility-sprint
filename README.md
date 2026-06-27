@@ -42,7 +42,8 @@ Included assets:
 - `marketplace-assets.html` — marketplace title bank, FAQ bank, package framing, and thumbnail prompts
 - `fiverr-upwork-pack.html` — service-marketplace packaging for Fiverr gigs and Upwork Project Catalog
 - `emergency-service-marketplace-pack.html` — urgent local-service marketplace packaging for locksmith, plumbing, HVAC, towing, roofing, and restoration niches
-- `plumber-marketplace-pack.html` — plumber marketplace packaging for emergency plumbing, drain cleaning, water-heater repair, leak repair, sewer line, and same-day dispatch angles
+- `plumber-marketplace-pack.html` — plumber marketplace packaging for emergency plumbing, water-heater repair, leak repair, sewer line, and same-day dispatch angles
+- `drain-cleaning-marketplace-pack.html` — drain-cleaning marketplace packaging for clogged drains, hydro jetting, sewer backups, rooter service, camera inspections, and same-day emergency dispatch angles
 - `septic-service-marketplace-pack.html` — septic-service marketplace packaging for pumping, inspections, drain-field repairs, grease-trap pumping, and urgent wastewater-service angles
 - `locksmith-marketplace-pack.html` — locksmith marketplace packaging for lockout, rekey, lock-change, car-key, and commercial-locksmith angles
 - `roadside-assistance-marketplace-pack.html` — roadside-assistance marketplace packaging for towing, jump-start, lockout, flat-tire, fuel-delivery, accident-recovery, and winch-out angles
@@ -169,6 +170,7 @@ Included assets:
 - `RUN-2026-06-26-window-tint-page.md` — run note for adding a window-tint niche page to the marketplace offer cluster
 - `RUN-2026-06-26-emergency-service-marketplace-pack.md` — run note for adding an urgent local-service marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-plumber-marketplace-pack.md` — run note for adding a plumber marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-drain-cleaning-marketplace-pack.md` — run note for adding a drain-cleaning marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-septic-service-marketplace-pack.md` — run note for adding a septic-service marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-locksmith-marketplace-pack.md` — run note for adding a locksmith marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-auto-repair-marketplace-pack.md` — run note for adding an auto-service marketplace packaging page to the marketplace offer cluster
