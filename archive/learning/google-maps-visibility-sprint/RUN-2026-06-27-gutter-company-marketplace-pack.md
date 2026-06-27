@@ -12,4 +12,4 @@ Shipped `gutter-company-marketplace-pack.html` to tighten the Google Maps Visibi
 Gutter companies already had a niche audit page, but listing/distribution traffic still pointed buyers to generic kits. This adds a tighter public offer surface for seamless-gutter installs, gutter guards, cleaning routes, downspout repair, and storm-season quote demand while preserving the same instant-checkout close path.
 
 ## Expected public URL
-- https://kuleana808.github.io/google-maps-visibility-sprint/gutter-company-marketplace-pack.html
+- https://kuleana808.github.io/google-maps-visibility-sprint/archive/learning/google-maps-visibility-sprint/gutter-company-marketplace-pack.html
