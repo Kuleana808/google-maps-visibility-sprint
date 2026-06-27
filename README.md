@@ -51,6 +51,7 @@ Included assets:
 - `garage-door-marketplace-pack.html` — garage-door marketplace packaging for repair calls, broken springs, opener failures, same-day installs, and emergency-service angles
 - `towing-company-marketplace-pack.html` — towing-company marketplace packaging for emergency towing, accident recovery, flatbed dispatch, heavy-duty service, and tow-truck-intent angles
 - `no-cool-hvac-marketplace-pack.html` — no-cool-HVAC marketplace packaging for same-day AC repair, after-hours cooling calls, thermostat failures, compressor issues, and peak-heat dispatch angles
+- `roofing-marketplace-pack.html` — roofing marketplace packaging for roof repair, reroof, replacement, inspections, commercial roofing, and project-estimate angles
 - `storm-damage-roofing-marketplace-pack.html` — storm-damage-roofing marketplace packaging for roof leak, hail, tarping, wind-damage, and insurance-claim angles
 - `water-damage-restoration-marketplace-pack.html` — water-damage-restoration marketplace packaging for flood cleanup, sewage cleanup, dry-out, mold remediation, and emergency mitigation angles
 - `fire-damage-restoration-marketplace-pack.html` — fire-damage-restoration marketplace packaging for smoke cleanup, soot removal, board-up, odor removal, and insurance-rebuild angles
@@ -60,8 +61,11 @@ Included assets:
 - `brake-repair-marketplace-pack.html` — brake-repair marketplace packaging for brake pads, rotors, ABS-warning, squeal-noise, and same-day safety-call angles
 - `med-spa-marketplace-pack.html` — med-spa marketplace packaging for Botox, filler, laser, facial, weight-loss, membership, and aesthetic-consult angles
 - `tree-service-marketplace-pack.html` — tree-service marketplace packaging for removals, trimming, stump grinding, storm cleanup, crane jobs, and emergency-call angles
+- `pressure-washing-marketplace-pack.html` — pressure-washing marketplace packaging for house washing, driveway cleaning, roof washing, soft washing, patio cleaning, and commercial exterior-cleaning quote angles
 - `pest-control-marketplace-pack.html` — pest-control marketplace packaging for termite inspections, rodent removal, mosquito treatment, bed bug service, and recurring-home-service quote angles
 - `junk-removal-marketplace-pack.html` — junk-removal marketplace packaging for furniture pickup, appliance removal, estate cleanouts, hot tub haul-away, and same-day pickup angles
+- `appliance-repair-marketplace-pack.html` — appliance-repair marketplace packaging for refrigerator repair, washer service, dryer repair, dishwasher fixes, oven calls, and same-day service angles
+- `basement-waterproofing-marketplace-pack.html` — basement-waterproofing marketplace packaging for leak repair, sump-pump installs, french drains, crawl-space encapsulation, foundation drainage, and drainage-correction estimate angles
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `google-maps-visibility-digital-bundle.html` — public product-style offer page for Gumroad/Payhip/Etsy-style shelves and downloadable-bundle distribution
 - `vertical-quickstart.html` — niche-specific med spa, chiropractor, dentist, pest-control, electrician, and home-service listing copy
@@ -120,6 +124,7 @@ Included assets:
 - `kitchen-remodeler-google-maps-audit.html` — kitchen-remodeler-specific offer page with the same live Stripe checkouts
 - `window-replacement-google-maps-audit.html` — window-replacement-specific offer page with the same live Stripe checkouts
 - `foundation-repair-google-maps-audit.html` — foundation-repair-specific offer page with the same live Stripe checkouts
+- `basement-waterproofing-marketplace-pack.html` — basement-waterproofing-specific marketplace pack with the same live Stripe checkout routing
 - `basement-waterproofing-google-maps-audit.html` — basement-waterproofing-specific offer page with the same live Stripe checkouts
 - `crawl-space-encapsulation-google-maps-audit.html` — crawl-space-encapsulation-specific offer page with the same live Stripe checkouts
 - `launch-kit.html` — download page for the portable marketplace ZIP bundle
@@ -137,6 +142,7 @@ Included assets:
 - kitchen-remodeler-google-maps-audit.html — tighter page for kitchen remodel, cabinet replacement, countertop upgrades, and kitchen-renovation estimate intent
 - window-replacement-google-maps-audit.html — tighter page for replacement windows, impact-window upgrades, patio doors, and energy-efficiency estimate intent
 - foundation-repair-google-maps-audit.html — tighter page for foundation repair, slab-crack diagnosis, house leveling, crawl-space support, and waterproofing estimate intent
+- basement-waterproofing-marketplace-pack.html — tighter marketplace/listing pack for basement waterproofing, sump-pump, french-drain, crawl-space, and drainage-correction buyers
 - basement-waterproofing-google-maps-audit.html — tighter page for basement leak repair, sump-pump installs, french drains, crawl-space encapsulation, and drainage-correction estimate intent
 - flooring-contractor-google-maps-audit.html — tighter page for hardwood installation, LVP upgrades, tile replacement, carpet refresh, and floor-remodel estimate intent
 - concrete-leveling-google-maps-audit.html — tighter page for slab lifting, mudjacking, polyjacking, sidewalk leveling, and sinking-driveway estimate intent
@@ -198,6 +204,9 @@ Included assets:
 - `RUN-2026-06-27-med-spa-marketplace-pack.md` — run note for adding a med-spa marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-fire-damage-restoration-marketplace-pack.md` — run note for adding a fire-damage-restoration marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-tree-service-marketplace-pack.md` — run note for adding a tree-service marketplace pack to the marketplace offer cluster
+- `RUN-2026-06-27-pressure-washing-marketplace-pack.md` — run note for adding a pressure-washing marketplace pack to the marketplace offer cluster
+- `RUN-2026-06-27-roofing-marketplace-pack.md` — run note for adding a roofing marketplace pack to the marketplace offer cluster
+- `RUN-2026-06-27-appliance-repair-marketplace-pack.md` — run note for adding an appliance-repair marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-26-pest-control-marketplace-pack.md` — run note for adding a pest-control marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-junk-removal-marketplace-pack.md` — run note for adding a junk-removal marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-26-restoration-company-page.md` — run note for adding a restoration-company umbrella niche page to the marketplace offer cluster
