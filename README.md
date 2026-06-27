@@ -99,6 +99,7 @@ Included assets:
 - `carpet-cleaning-google-maps-audit.html` — carpet-cleaning-specific offer page with the same live Stripe checkouts
 - `moving-company-google-maps-audit.html` — moving-company-specific offer page with the same live Stripe checkouts
 - `auto-repair-google-maps-audit.html` — auto-repair-specific offer page with the same live Stripe checkouts
+- `auto-ac-repair-google-maps-audit.html` — auto-AC-repair-specific offer page with the same live Stripe checkouts
 - `brake-repair-google-maps-audit.html` — brake-repair-specific offer page with the same live Stripe checkouts
 - `collision-repair-google-maps-audit.html` — collision-repair-specific offer page with the same live Stripe checkouts
 - `window-tint-google-maps-audit.html` — window-tint-specific offer page with the same live Stripe checkouts
@@ -139,6 +140,7 @@ Included assets:
 - `window-tint-google-maps-audit.html` — tighter page for ceramic tint, windshield film, Tesla tint, PPF upsells, and residential/commercial film estimate intent
 - `no-cool-hvac-google-maps-audit.html` — tighter page for no-cool AC, same-day HVAC dispatch, thermostat failures, compressor issues, and after-hours cooling-repair intent
 - `roadside-assistance-google-maps-audit.html` — tighter page for jump-start, lockout, flat-tire, fuel-delivery, winch-out, and urgent roadside-dispatch intent
+- `auto-ac-repair-google-maps-audit.html` — tighter page for car AC repair, no-cold-air diagnosis, refrigerant recharge, compressor replacement, condenser service, and same-day cooling-call intent
 - `brake-repair-google-maps-audit.html` — tighter page for brake pad replacement, rotor resurfacing, brake inspections, ABS-light diagnosis, squeal-noise fixes, and same-day safety-call intent
 
 - `RUN-2026-06-25-vertical-cluster-linking.md` — run note for re-linking med spa, chiropractor, and pest control pages across the public cluster and launch kit
@@ -175,6 +177,7 @@ Included assets:
 - `RUN-2026-06-26-storm-damage-roofing-page.md` — run note for adding a storm-damage roofing niche page and linking it across the urgent-service distribution stack
 - `RUN-2026-06-27-no-cool-hvac-page.md` — run note for adding a no-cool-HVAC niche page to the marketplace offer cluster
 - `RUN-2026-06-27-no-cool-hvac-marketplace-pack.md` — run note for adding a no-cool-HVAC marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-27-auto-ac-repair-page.md` — run note for adding an auto-AC-repair niche page to the marketplace offer cluster
 - `RUN-2026-06-27-brake-repair-page.md` — run note for adding a brake-repair niche page to the marketplace offer cluster
 - `RUN-2026-06-27-towing-company-marketplace-pack.md` — run note for adding a towing-company marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-biohazard-cleanup-marketplace-pack.md` — run note for adding a biohazard-cleanup marketplace pack to the marketplace offer cluster
