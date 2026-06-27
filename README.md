@@ -54,6 +54,7 @@ Included assets:
 - `fire-damage-restoration-marketplace-pack.html` — fire-damage-restoration marketplace packaging for smoke cleanup, soot removal, board-up, odor removal, and insurance-rebuild angles
 - `biohazard-cleanup-marketplace-pack.html` — biohazard-cleanup marketplace packaging for trauma cleanup, crime scene cleanup, hoarding cleanup, unattended-death cleanup, odor remediation, and trust-heavy emergency-service angles
 - `auto-repair-marketplace-pack.html` — auto-service marketplace packaging for independent repair shops, brake/tire shops, diagnostics, transmission, collision repair, and body-shop angles
+- `auto-ac-repair-marketplace-pack.html` — auto-AC-repair marketplace packaging for no-cold-air diagnostics, recharge, compressor, condenser, and same-day cooling-call angles
 - `digital-product-pack.html` — Gumroad/Payhip/Etsy-style digital product and bundle listing copy
 - `google-maps-visibility-digital-bundle.html` — public product-style offer page for Gumroad/Payhip/Etsy-style shelves and downloadable-bundle distribution
 - `vertical-quickstart.html` — niche-specific med spa, chiropractor, dentist, pest-control, electrician, and home-service listing copy
@@ -174,6 +175,7 @@ Included assets:
 - `RUN-2026-06-26-septic-service-marketplace-pack.md` — run note for adding a septic-service marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-locksmith-marketplace-pack.md` — run note for adding a locksmith marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-auto-repair-marketplace-pack.md` — run note for adding an auto-service marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-26-auto-ac-repair-marketplace-pack.md` — run note for adding an auto-AC-repair marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-storm-damage-roofing-marketplace-pack.md` — run note for adding a storm-damage-roofing marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-water-damage-restoration-marketplace-pack.md` — run note for adding a water-damage-restoration marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-26-storm-damage-roofing-page.md` — run note for adding a storm-damage roofing niche page and linking it across the urgent-service distribution stack
