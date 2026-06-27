@@ -47,6 +47,7 @@ Included assets:
 - `septic-service-marketplace-pack.html` — septic-service marketplace packaging for pumping, inspections, drain-field repairs, grease-trap pumping, and urgent wastewater-service angles
 - `locksmith-marketplace-pack.html` — locksmith marketplace packaging for lockout, rekey, lock-change, car-key, and commercial-locksmith angles
 - `roadside-assistance-marketplace-pack.html` — roadside-assistance marketplace packaging for towing, jump-start, lockout, flat-tire, fuel-delivery, accident-recovery, and winch-out angles
+- `garage-door-marketplace-pack.html` — garage-door marketplace packaging for repair calls, broken springs, opener failures, same-day installs, and emergency-service angles
 - `towing-company-marketplace-pack.html` — towing-company marketplace packaging for emergency towing, accident recovery, flatbed dispatch, heavy-duty service, and tow-truck-intent angles
 - `no-cool-hvac-marketplace-pack.html` — no-cool-HVAC marketplace packaging for same-day AC repair, after-hours cooling calls, thermostat failures, compressor issues, and peak-heat dispatch angles
 - `storm-damage-roofing-marketplace-pack.html` — storm-damage-roofing marketplace packaging for roof leak, hail, tarping, wind-damage, and insurance-claim angles
@@ -182,6 +183,7 @@ Included assets:
 - `RUN-2026-06-26-storm-damage-roofing-page.md` — run note for adding a storm-damage roofing niche page and linking it across the urgent-service distribution stack
 - `RUN-2026-06-27-no-cool-hvac-page.md` — run note for adding a no-cool-HVAC niche page to the marketplace offer cluster
 - `RUN-2026-06-27-no-cool-hvac-marketplace-pack.md` — run note for adding a no-cool-HVAC marketplace packaging page to the marketplace offer cluster
+- `RUN-2026-06-27-garage-door-marketplace-pack.md` — run note for adding a garage-door marketplace packaging page to the marketplace offer cluster
 - `RUN-2026-06-27-auto-ac-repair-page.md` — run note for adding an auto-AC-repair niche page to the marketplace offer cluster
 - `RUN-2026-06-27-brake-repair-page.md` — run note for adding a brake-repair niche page to the marketplace offer cluster
 - `RUN-2026-06-27-brake-repair-marketplace-pack.md` — run note for adding a brake-repair marketplace pack to the marketplace offer cluster
