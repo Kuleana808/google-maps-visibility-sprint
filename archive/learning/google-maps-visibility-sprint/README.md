@@ -50,6 +50,7 @@ Included assets:
 - `roadside-assistance-marketplace-pack.html` — roadside-assistance marketplace packaging for towing, jump-start, lockout, flat-tire, fuel-delivery, accident-recovery, and winch-out angles
 - `garage-door-marketplace-pack.html` — garage-door marketplace packaging for repair calls, broken springs, opener failures, same-day installs, and emergency-service angles
 - `towing-company-marketplace-pack.html` — towing-company marketplace packaging for emergency towing, accident recovery, flatbed dispatch, heavy-duty service, and tow-truck-intent angles
+- `gutter-company-marketplace-pack.html` — gutter-company marketplace packaging for seamless gutter installs, gutter guards, gutter cleaning, downspout repair, drainage fixes, and storm-season estimate angles
 - `no-cool-hvac-marketplace-pack.html` — no-cool-HVAC marketplace packaging for same-day AC repair, after-hours cooling calls, thermostat failures, compressor issues, and peak-heat dispatch angles
 - `roofing-marketplace-pack.html` — roofing marketplace packaging for roof repair, reroof, replacement, inspections, commercial roofing, and project-estimate angles
 - `storm-damage-roofing-marketplace-pack.html` — storm-damage-roofing marketplace packaging for roof leak, hail, tarping, wind-damage, and insurance-claim angles
@@ -200,6 +201,7 @@ Included assets:
 - `RUN-2026-06-27-brake-repair-page.md` — run note for adding a brake-repair niche page to the marketplace offer cluster
 - `RUN-2026-06-27-brake-repair-marketplace-pack.md` — run note for adding a brake-repair marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-towing-company-marketplace-pack.md` — run note for adding a towing-company marketplace pack to the marketplace offer cluster
+- `RUN-2026-06-27-gutter-company-marketplace-pack.md` — run note for adding a gutter-company marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-biohazard-cleanup-marketplace-pack.md` — run note for adding a biohazard-cleanup marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-med-spa-marketplace-pack.md` — run note for adding a med-spa marketplace pack to the marketplace offer cluster
 - `RUN-2026-06-27-fire-damage-restoration-marketplace-pack.md` — run note for adding a fire-damage-restoration marketplace pack to the marketplace offer cluster
